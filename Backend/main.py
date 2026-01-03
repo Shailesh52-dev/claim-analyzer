@@ -50,7 +50,7 @@ except ImportError:
     print("WARNING: PaddleOCR not found. Will attempt TrOCR fallback.")
 
 # --- CRITICAL CONFIGURATION ---
-API_KEY = "AIzaSyBL9IkU6bFgJ1TIVNva7KZKUA87I-AxtLc" 
+API_KEY =  
 MAX_RETRIES = 5
 # --- CRITICAL FIX: Define MODEL_NAME for NN Tokenizer/Model loading ---
 MODEL_NAME = 'distilbert-base-uncased' 
