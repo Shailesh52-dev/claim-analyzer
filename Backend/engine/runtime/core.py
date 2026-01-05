@@ -14,13 +14,13 @@ import torch
 import re
 from io import BytesIO
 from PIL import Image, ImageEnhance
-from engine.loaders.axiom_loader import load_fkc_axioms, load_fkc_nouns
-from engine.nli.level2.implicit_conflict import detect_implicit_conflict
-from engine.reasoning.CCL.ccl_engine import minimal_ccl_decision
-from engine.reasoning.cdvm.core.cdvm_analyzer import analyze_cdvm
-from engine.reasoning.option3.option3_analyzer import analyze_option3
-from engine.utils.verb_extractor import extract_main_verb
-from engine.retrieval.retrieve import retrieve_evidence
+from Backend.engine.loaders.axiom_loader import load_fkc_axioms, load_fkc_nouns
+from Backend.engine.nli.level2.implicit_conflict import detect_implicit_conflict
+from Backend.engine.reasoning.CCL.ccl_engine import minimal_ccl_decision
+from Backend.engine.reasoning.cdvm.core.cdvm_analyzer import analyze_cdvm
+from Backend.engine.reasoning.option3.option3_analyzer import analyze_option3
+from Backend.engine.utils.verb_extractor import extract_main_verb
+from Backend.engine.retrieval.retrieve import retrieve_evidence
 from dotenv import load_dotenv
 load_dotenv() 
 # --- transformers availability guard ---

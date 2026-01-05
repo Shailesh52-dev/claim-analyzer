@@ -2,7 +2,7 @@
 
 from typing import Optional, Dict
 
-from engine.reasoning.cdvm.core.priors import(
+from Backend.engine.reasoning.cdvm.core.priors import(
     get_verb_prior,
     get_verb_intensity_prior,
     is_common_transfer,
