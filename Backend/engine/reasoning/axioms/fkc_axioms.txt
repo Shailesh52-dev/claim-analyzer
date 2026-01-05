@@ -1,0 +1,489 @@
+[ABSOLUTE] A thing cannot both be and not be at the same time in the same respect
+[ABSOLUTE] If A equals B and B equals C then A equals C
+[ABSOLUTE] A whole is equal to the sum of its parts
+[ABSOLUTE] Two plus two equals four
+[ABSOLUTE] A triangle has three sides
+[ABSOLUTE] A square has four equal sides and four right angles
+[ABSOLUTE] A circle is a set of points equidistant from a center point
+[ABSOLUTE] Zero multiplied by any number equals zero
+[ABSOLUTE] Any number divided by itself equals one
+[ABSOLUTE] The square root of four is two
+[ABSOLUTE] Parallel lines never intersect
+[ABSOLUTE] A straight line is the shortest distance between two points
+[ABSOLUTE] The sum of angles in a triangle equals 180 degrees
+[ABSOLUTE] A prime number is divisible only by one and itself
+[ABSOLUTE] The number pi is approximately 3.14159
+[ABSOLUTE] One plus one equals two
+[ABSOLUTE] Ten minus five equals five
+[ABSOLUTE] Three times three equals nine
+[ABSOLUTE] Eight divided by two equals four
+[ABSOLUTE] The integer following three is four
+[ABSOLUTE] Zero is neither positive nor negative
+[ABSOLUTE] A cube has six faces
+[ABSOLUTE] A sphere has no edges
+[ABSOLUTE] A rectangle has four sides
+[ABSOLUTE] An even number is divisible by two
+[ABSOLUTE] An odd number is not divisible by two
+[ABSOLUTE] The Pythagorean theorem states that a squared plus b squared equals c squared in a right triangle
+[ABSOLUTE] A right angle measures 90 degrees
+[ABSOLUTE] A full circle contains 360 degrees
+[ABSOLUTE] The perimeter of a circle is called its circumference
+[ABSOLUTE] The diameter of a circle is twice its radius
+[ABSOLUTE] A pentagon has five sides
+[ABSOLUTE] A hexagon has six sides
+[ABSOLUTE] An octagon has eight sides
+[ABSOLUTE] A cylinder has two circular bases
+[ABSOLUTE] A cone has one circular base and one apex
+[ABSOLUTE] The area of a rectangle equals length times width
+[ABSOLUTE] The volume of a cube equals side length cubed
+[ABSOLUTE] One meter equals 100 centimeters
+[ABSOLUTE] One kilogram equals 1000 grams
+[ABSOLUTE] One liter equals 1000 milliliters
+[ABSOLUTE] One hour contains 60 minutes
+[ABSOLUTE] One minute contains 60 seconds
+[ABSOLUTE] One day contains 24 hours
+[ABSOLUTE] One week contains seven days
+[ABSOLUTE] January is the first month of the year
+[ABSOLUTE] December is the twelfth month of the year
+[ABSOLUTE] A leap year occurs every four years with exceptions
+[ABSOLUTE] The alphabet contains 26 letters in English
+[ABSOLUTE] A dozen equals twelve
+[ABSOLUTE] A century equals 100 years
+[ABSOLUTE] A millennium equals 1000 years
+[ABSOLUTE] Multiplication is commutative
+[ABSOLUTE] Addition is associative
+[ABSOLUTE] The identity element for multiplication is one
+[ABSOLUTE] The identity element for addition is zero
+[ABSOLUTE] A negative times a negative equals a positive
+[ABSOLUTE] A negative times a positive equals a negative
+[ABSOLUTE] The absolute value of a number is non-negative
+[ABSOLUTE] The square of any real number is non-negative
+[ABSOLUTE] If x equals y then y equals x
+[ABSOLUTE] A set is a collection of distinct objects
+[ABSOLUTE] The empty set contains no elements
+[ABSOLUTE] A subset contains only elements from its parent set
+[ABSOLUTE] The union of two sets contains all elements from both sets
+[ABSOLUTE] The intersection of two sets contains only common elements
+[ABSOLUTE] An equilateral triangle has three equal sides
+[ABSOLUTE] An isosceles triangle has at least two equal sides
+[ABSOLUTE] A scalene triangle has no equal sides
+[ABSOLUTE] An acute angle is less than 90 degrees
+[ABSOLUTE] An obtuse angle is greater than 90 degrees and less than 180 degrees
+[ABSOLUTE] Vertical angles are equal
+[ABSOLUTE] Complementary angles sum to 90 degrees
+[ABSOLUTE] Supplementary angles sum to 180 degrees
+[ABSOLUTE] The area of a triangle equals one half base times height
+[ABSOLUTE] A rhombus has four equal sides
+[ABSOLUTE] A trapezoid has at least one pair of parallel sides
+[ABSOLUTE] A parallelogram has two pairs of parallel sides
+[ABSOLUTE] Opposite sides of a parallelogram are equal
+[ABSOLUTE] The diagonals of a rectangle are equal
+[ABSOLUTE] The diagonals of a square are equal and perpendicular
+[ABSOLUTE] A polygon is a closed figure with straight sides
+[ABSOLUTE] The sum of exterior angles of any polygon equals 360 degrees
+[ABSOLUTE] A regular polygon has all sides and angles equal
+[ABSOLUTE] A quadrilateral has four sides
+[ABSOLUTE] The volume of a sphere equals four thirds pi times radius cubed
+[ABSOLUTE] The surface area of a sphere equals four pi times radius squared
+[ABSOLUTE] The circumference of a circle equals two pi times radius
+[ABSOLUTE] The area of a circle equals pi times radius squared
+[ABSOLUTE] One kilometer equals 1000 meters
+[ABSOLUTE] One ton equals 1000 kilograms
+[ABSOLUTE] Water freezes at zero degrees Celsius at standard pressure
+[ABSOLUTE] Water boils at 100 degrees Celsius at standard pressure
+[ABSOLUTE] Absolute zero is minus 273.15 degrees Celsius
+[ABSOLUTE] The speed of light in vacuum is approximately 299792458 meters per second
+[ABSOLUTE] The base of the natural logarithm e is approximately 2.71828
+[ABSOLUTE] The golden ratio phi is approximately 1.618
+[ABSOLUTE] One foot equals twelve inches
+[ABSOLUTE] One yard equals three feet
+[ABSOLUTE] One mile equals 5280 feet
+[ABSOLUTE] One gallon equals four quarts
+[ABSOLUTE] One pound equals sixteen ounces
+[ABSOLUTE] There are twelve months in a year
+[ABSOLUTE] February has 28 days in a common year
+[ABSOLUTE] February has 29 days in a leap year
+[ABSOLUTE] April has 30 days
+[ABSOLUTE] May has 31 days
+[ABSOLUTE] June has 30 days
+[ABSOLUTE] July has 31 days
+[ABSOLUTE] August has 31 days
+[ABSOLUTE] September has 30 days
+[ABSOLUTE] October has 31 days
+[ABSOLUTE] November has 30 days
+[ABSOLUTE] March has 31 days
+[ABSOLUTE] January has 31 days
+[ABSOLUTE] A year contains 365 days in a common year
+[ABSOLUTE] A year contains 366 days in a leap year
+[ABSOLUTE] The sum of two even numbers is even
+[ABSOLUTE] The sum of two odd numbers is even
+[ABSOLUTE] The sum of an even and odd number is odd
+[ABSOLUTE] The product of two even numbers is even
+[ABSOLUTE] The product of two odd numbers is odd
+[ABSOLUTE] Zero is an integer
+[ABSOLUTE] All natural numbers are integers
+[ABSOLUTE] All integers are rational numbers
+[ABSOLUTE] All rational numbers are real numbers
+[ABSOLUTE] The square root of two is irrational
+[ABSOLUTE] Pi is irrational
+[ABSOLUTE] E is irrational
+[ABSOLUTE] A function maps each input to exactly one output
+[ABSOLUTE] The derivative measures rate of change
+[ABSOLUTE] The integral measures accumulated quantity
+[ABSOLUTE] The sine of zero degrees equals zero
+[ABSOLUTE] The cosine of zero degrees equals one
+[ABSOLUTE] The tangent of 45 degrees equals one
+[ABSOLUTE] Sine squared plus cosine squared equals one
+[ABSOLUTE] One radian equals approximately 57.3 degrees
+[ABSOLUTE] Two pi radians equal 360 degrees
+[ABSOLUTE] The logarithm of one to any base equals zero
+[ABSOLUTE] The logarithm of a base to itself equals one
+[ABSOLUTE] Any number to the power of zero equals one
+[ABSOLUTE] Any number to the power of one equals itself
+[ABSOLUTE] The factorial of zero equals one
+[ABSOLUTE] The factorial of one equals one
+[ABSOLUTE] The factorial of five equals 120
+[ABSOLUTE] A binary number uses only digits zero and one
+[ABSOLUTE] A hexadecimal number uses base sixteen
+[ABSOLUTE] An octal number uses base eight
+[ABSOLUTE] The decimal system uses base ten
+[PHYSICAL] Mass cannot be created or destroyed in a closed system
+[PHYSICAL] Energy cannot be created or destroyed in a closed system
+[PHYSICAL] The speed of light in vacuum is constant
+[PHYSICAL] Gravity attracts objects with mass toward each other
+[PHYSICAL] Electric charges of opposite sign attract each other
+[PHYSICAL] Electric charges of the same sign repel each other
+[PHYSICAL] Magnetic poles exist in pairs
+[PHYSICAL] Like magnetic poles repel each other
+[PHYSICAL] Opposite magnetic poles attract each other
+[PHYSICAL] Light travels in straight lines in a uniform medium
+[PHYSICAL] Sound requires a medium to travel
+[PHYSICAL] Heat flows from hot objects to cold objects
+[PHYSICAL] The wavelength times frequency of light equals its speed
+[PHYSICAL] Photons have no mass
+[PHYSICAL] Electrons have negative charge
+[PHYSICAL] Protons have positive charge
+[PHYSICAL] Neutrons have no charge
+[PHYSICAL] Atoms contain protons neutrons and electrons
+[PHYSICAL] The atomic number equals the number of protons
+[PHYSICAL] Hydrogen has atomic number one
+[PHYSICAL] Helium has atomic number two
+[PHYSICAL] Carbon has atomic number six
+[PHYSICAL] Nitrogen has atomic number seven
+[PHYSICAL] Oxygen has atomic number eight
+[PHYSICAL] Gold has atomic number 79
+[PHYSICAL] Iron has atomic number 26
+[PHYSICAL] Sodium has atomic number 11
+[PHYSICAL] Chlorine has atomic number 17
+[PHYSICAL] Uranium has atomic number 92
+[PHYSICAL] Water consists of two hydrogen atoms and one oxygen atom
+[PHYSICAL] Carbon dioxide consists of one carbon atom and two oxygen atoms
+[PHYSICAL] Salt consists of sodium and chlorine
+[PHYSICAL] Momentum equals mass times velocity
+[PHYSICAL] Force equals mass times acceleration
+[PHYSICAL] Work equals force times distance
+[PHYSICAL] Power equals work divided by time
+[PHYSICAL] Kinetic energy equals one half mass times velocity squared
+[PHYSICAL] Potential energy in a gravitational field equals mass times gravitational acceleration times height
+[PHYSICAL] Pressure equals force divided by area
+[PHYSICAL] Density equals mass divided by volume
+[PHYSICAL] Velocity equals distance divided by time
+[PHYSICAL] Acceleration equals change in velocity divided by time
+[PHYSICAL] Electric current equals charge divided by time
+[PHYSICAL] Voltage equals current times resistance
+[PHYSICAL] Electric power equals voltage times current
+[PHYSICAL] The period of a wave is the inverse of its frequency
+[PHYSICAL] Wavelength equals speed divided by frequency
+[PHYSICAL] Objects in motion remain in motion unless acted upon by force
+[PHYSICAL] Objects at rest remain at rest unless acted upon by force
+[PHYSICAL] For every action there is an equal and opposite reaction
+[PHYSICAL] The gravitational force between two objects is proportional to their masses
+[PHYSICAL] The gravitational force between two objects is inversely proportional to the square of their distance
+[PHYSICAL] Light exhibits wave properties
+[PHYSICAL] Light exhibits particle properties
+[PHYSICAL] The electromagnetic spectrum includes radio waves
+[PHYSICAL] The electromagnetic spectrum includes microwaves
+[PHYSICAL] The electromagnetic spectrum includes infrared radiation
+[PHYSICAL] The electromagnetic spectrum includes visible light
+[PHYSICAL] The electromagnetic spectrum includes ultraviolet radiation
+[PHYSICAL] The electromagnetic spectrum includes X-rays
+[PHYSICAL] The electromagnetic spectrum includes gamma rays
+[PHYSICAL] Red light has longer wavelength than blue light
+[PHYSICAL] Ultraviolet light has shorter wavelength than visible light
+[PHYSICAL] Infrared light has longer wavelength than visible light
+[PHYSICAL] The Sun emits electromagnetic radiation
+[PHYSICAL] Radioactive decay releases particles or energy
+[PHYSICAL] Alpha particles consist of two protons and two neutrons
+[PHYSICAL] Beta particles are electrons or positrons
+[PHYSICAL] Gamma rays are high energy photons
+[PHYSICAL] Half life is the time for half of a radioactive sample to decay
+[PHYSICAL] Temperature measures average kinetic energy of particles
+[PHYSICAL] Absolute zero is the lowest possible temperature
+[PHYSICAL] Gases expand when heated at constant pressure
+[PHYSICAL] Liquids expand when heated
+[PHYSICAL] Most solids expand when heated
+[PHYSICAL] Ice is less dense than liquid water
+[PHYSICAL] Pressure increases with depth in a fluid
+[PHYSICAL] Buoyant force equals the weight of displaced fluid
+[PHYSICAL] The speed of sound in air is approximately 343 meters per second at room temperature
+[PHYSICAL] The speed of sound increases with temperature
+[PHYSICAL] Doppler effect changes observed frequency with relative motion
+[PHYSICAL] Refraction bends light passing between different media
+[PHYSICAL] Reflection bounces light off surfaces
+[PHYSICAL] The angle of incidence equals the angle of reflection
+[PHYSICAL] Total internal reflection occurs at angles beyond the critical angle
+[PHYSICAL] A convex lens converges light rays
+[PHYSICAL] A concave lens diverges light rays
+[PHYSICAL] A convex mirror produces virtual images
+[PHYSICAL] A concave mirror can produce real or virtual images
+[PHYSICAL] White light separates into colors through a prism
+[PHYSICAL] The visible spectrum ranges from red to violet
+[PHYSICAL] Chlorophyll absorbs red and blue light
+[PHYSICAL] Friction opposes motion between surfaces
+[PHYSICAL] Air resistance opposes motion through air
+[PHYSICAL] Terminal velocity occurs when forces balance
+[PHYSICAL] Centripetal force is required for circular motion
+[PHYSICAL] Angular momentum is conserved in isolated systems
+[PHYSICAL] Torque equals force times lever arm distance
+[PHYSICAL] The moment of inertia depends on mass distribution
+[PHYSICAL] Resonance occurs when driving frequency matches natural frequency
+[PHYSICAL] Standing waves have nodes and antinodes
+[PHYSICAL] Interference can be constructive or destructive
+[PHYSICAL] Diffraction spreads waves passing through openings
+[PHYSICAL] Polarization restricts wave oscillation to specific directions
+[PHYSICAL] Photoelectric effect releases electrons when light hits metal
+[PHYSICAL] Blackbody radiation spectrum depends on temperature
+[PHYSICAL] Wien displacement law relates peak wavelength to temperature
+[PHYSICAL] Stefan Boltzmann law relates radiated power to temperature
+[PHYSICAL] Entropy increases in isolated systems
+[PHYSICAL] Heat engines cannot be 100 percent efficient
+[PHYSICAL] Carnot efficiency depends on temperature difference
+[PHYSICAL] PV equals nRT for ideal gases
+[PHYSICAL] Boyle law states pressure times volume is constant at constant temperature
+[PHYSICAL] Charles law states volume divided by temperature is constant at constant pressure
+[PHYSICAL] Avogadro number is approximately 6.022 times ten to the 23rd power
+[PHYSICAL] One mole contains Avogadro number of particles
+[PHYSICAL] Molecular mass is measured in atomic mass units
+[PHYSICAL] pH measures hydrogen ion concentration
+[PHYSICAL] pH seven is neutral
+[PHYSICAL] pH below seven is acidic
+[PHYSICAL] pH above seven is basic
+[PHYSICAL] Strong acids completely dissociate in water
+[PHYSICAL] Oxidation is loss of electrons
+[PHYSICAL] Reduction is gain of electrons
+[PHYSICAL] Catalysts speed reactions without being consumed
+[PHYSICAL] Activation energy is required to start reactions
+[PHYSICAL] Exothermic reactions release energy
+[PHYSICAL] Endothermic reactions absorb energy
+[PHYSICAL] Chemical equilibrium occurs when forward and reverse rates equal
+[PHYSICAL] Le Chatelier principle describes equilibrium shifts
+[PHYSICAL] Ionic bonds involve electron transfer
+[PHYSICAL] Covalent bonds involve electron sharing
+[PHYSICAL] Metallic bonds involve delocalized electrons
+[PHYSICAL] Hydrogen bonds are weak electrostatic interactions
+[PHYSICAL] Van der Waals forces are weak intermolecular forces
+[PHYSICAL] Noble gases have complete outer electron shells
+[PHYSICAL] Halogens have seven valence electrons
+[PHYSICAL] Alkali metals have one valence electron
+[PHYSICAL] Alkaline earth metals have two valence electrons
+[PHYSICAL] Carbon can form four covalent bonds
+[PHYSICAL] Diamond is a form of carbon
+[PHYSICAL] Graphite is a form of carbon
+[PHYSICAL] Metals conduct electricity
+[PHYSICAL] Metals conduct heat
+[PHYSICAL] Insulators do not conduct electricity well
+[PHYSICAL] Semiconductors have intermediate conductivity
+[PHYSICAL] Superconductors have zero electrical resistance below critical temperature
+[PHYSICAL] Plasma is ionized gas
+[PHYSICAL] Sublimation converts solid directly to gas
+[PHYSICAL] Deposition converts gas directly to solid
+[PHYSICAL] Evaporation converts liquid to gas
+[PHYSICAL] Condensation converts gas to liquid
+[PHYSICAL] Melting converts solid to liquid
+[PHYSICAL] Freezing converts liquid to solid
+[PHYSICAL] Triple point is where all three phases coexist
+[PHYSICAL] Critical point is where liquid and gas phases become indistinguishable
+[PHYSICAL] Isotopes have same number of protons but different numbers of neutrons
+[PHYSICAL] Nuclear fission splits heavy nuclei
+[PHYSICAL] Nuclear fusion combines light nuclei
+[PHYSICAL] Antimatter has opposite charge to matter
+[PHYSICAL] Electron mass is approximately 9.109 times ten to the minus 31st kilograms
+[PHYSICAL] Proton mass is approximately 1.673 times ten to the minus 27th kilograms
+[PHYSICAL] Planck constant is approximately 6.626 times ten to the minus 34th joule seconds
+[PHYSICAL] Gravitational constant is approximately 6.674 times ten to the minus 11th newton meters squared per kilogram squared
+[PHYSICAL] Elementary charge is approximately 1.602 times ten to the minus 19th coulombs
+[PHYSICAL] The Earth orbits the Sun
+[PHYSICAL] The Moon orbits the Earth
+[PHYSICAL] Planets orbit in elliptical paths
+[PHYSICAL] Tides result from gravitational forces of the Moon and Sun
+[PHYSICAL] Day and night result from Earth rotation
+[PHYSICAL] Seasons result from Earth axial tilt
+[PHYSICAL] The Sun is a star
+[PHYSICAL] Stars produce energy through nuclear fusion
+[PHYSICAL] Red giant stars have expanded outer layers
+[PHYSICAL] White dwarf stars are dense stellar remnants
+[PHYSICAL] Neutron stars are extremely dense
+[PHYSICAL] Black holes have escape velocities exceeding light speed
+[PHYSICAL] Galaxies contain billions of stars
+[PHYSICAL] The Milky Way is a spiral galaxy
+[PHYSICAL] The universe is expanding
+[PHYSICAL] Cosmic microwave background radiation pervades space
+[PHYSICAL] Mars is the fourth planet from the Sun
+[PHYSICAL] Jupiter is the largest planet in the solar system
+[PHYSICAL] Saturn has prominent rings
+[PHYSICAL] Mercury is the closest planet to the Sun
+[PHYSICAL] Venus is the second planet from the Sun
+[PHYSICAL] Earth is the third planet from the Sun
+[PHYSICAL] Uranus is the seventh planet from the Sun
+[PHYSICAL] Neptune is the eighth planet from the Sun
+[PHYSICAL] Comets have tails pointing away from the Sun
+[PHYSICAL] Asteroids are rocky bodies orbiting the Sun
+[PHYSICAL] Meteoroids are small rocky or metallic bodies in space
+[PHYSICAL] Meteors are meteoroids burning in atmosphere
+[PHYSICAL] Meteorites are meteors that reach the ground
+[SOFT] Living organisms require energy to maintain themselves
+[SOFT] Cells are the basic units of life
+[SOFT] DNA carries genetic information
+[SOFT] Proteins are built from amino acids
+[SOFT] Enzymes are biological catalysts
+[SOFT] Photosynthesis converts light energy into chemical energy
+[SOFT] Cellular respiration releases energy from glucose
+[SOFT] Mitochondria are organelles involved in energy production
+[SOFT] Chloroplasts are organelles where photosynthesis occurs
+[SOFT] The nucleus contains genetic material
+[SOFT] Cell membranes control passage of substances
+[SOFT] Diffusion moves substances from high to low concentration
+[SOFT] Osmosis is diffusion of water across membranes
+[SOFT] Active transport requires energy
+[SOFT] DNA consists of nucleotides
+[SOFT] The four DNA bases are adenine thymine guanine and cytosine
+[SOFT] RNA contains uracil instead of thymine
+[SOFT] DNA forms a double helix structure
+[SOFT] Genes are segments of DNA
+[SOFT] Chromosomes contain DNA
+[SOFT] Humans have 46 chromosomes
+[SOFT] Meiosis produces gametes
+[SOFT] Mitosis produces identical daughter cells
+[SOFT] Genetic mutations are changes in DNA sequence
+[SOFT] Natural selection acts on heritable variation
+[SOFT] Organisms reproduce to create offspring
+[SOFT] Species share common ancestors
+[SOFT] Fossils are preserved remains of ancient organisms
+[SOFT] The tree of life shows evolutionary relationships
+[SOFT] Bacteria are prokaryotic organisms
+[SOFT] Eukaryotic cells have nuclei
+[SOFT] Viruses require host cells to replicate
+[SOFT] Fungi include yeasts and molds
+[SOFT] Plants produce oxygen through photosynthesis
+[SOFT] Animals consume organic matter for energy
+[SOFT] Vertebrates have backbones
+[SOFT] Invertebrates lack backbones
+[SOFT] Mammals produce milk
+[SOFT] Birds have feathers
+[SOFT] Reptiles have scales
+[SOFT] Amphibians undergo metamorphosis
+[SOFT] Fish have gills
+[SOFT] Arthropods have exoskeletons
+[SOFT] Insects have six legs
+[SOFT] Spiders have eight legs
+[SOFT] Mollusks include snails and octopuses
+[SOFT] Ecosystems contain biotic and abiotic components
+[SOFT] Producers convert sunlight into chemical energy
+[SOFT] Consumers obtain energy by eating other organisms
+[SOFT] Decomposers break down dead organic matter
+[SOFT] Food chains show energy flow
+[SOFT] Food webs show interconnected feeding relationships
+[SOFT] Predators hunt prey
+[SOFT] Herbivores eat plants
+[SOFT] Carnivores eat meat
+[SOFT] Omnivores eat both plants and animals
+[SOFT] Populations consist of individuals of the same species
+[SOFT] Communities contain multiple species
+[SOFT] Biomes are large ecological regions
+[SOFT] Deserts receive low precipitation
+[SOFT] Rainforests have high biodiversity
+[SOFT] Tundra exists in cold climates
+[SOFT] Grasslands support grazing animals
+[SOFT] Oceans cover most of Earth surface
+[SOFT] Coral reefs support diverse marine life
+[SOFT] Wetlands filter water
+[SOFT] Rivers flow toward oceans or lakes
+[SOFT] Lakes are inland bodies of water
+[SOFT] Groundwater exists beneath the surface
+[SOFT] The water cycle involves evaporation and precipitation
+[SOFT] Carbon cycles through atmosphere oceans and organisms
+[SOFT] Nitrogen is essential for proteins
+[SOFT] Phosphorus is essential for DNA and ATP
+[SOFT] The atmosphere contains nitrogen and oxygen
+[SOFT] Carbon dioxide is a greenhouse gas
+[SOFT] Methane is a greenhouse gas
+[SOFT] Water vapor is a greenhouse gas
+[SOFT] Ozone absorbs ultraviolet radiation
+[SOFT] The ozone layer exists in the stratosphere
+[SOFT] Weather describes short term atmospheric conditions
+[SOFT] Climate describes long term atmospheric patterns
+[SOFT] Temperature varies with altitude
+[SOFT] Humidity measures water vapor in air
+[SOFT] Wind results from pressure differences
+[SOFT] Clouds form from condensed water vapor
+[SOFT] Rain falls from clouds
+[SOFT] Snow forms when water vapor freezes
+[SOFT] Hurricanes are large rotating storms
+[SOFT] Tornadoes are rotating columns of air
+[SOFT] Lightning is electrical discharge
+[SOFT] Thunder results from lightning heating air
+[SOFT] Earthquakes result from tectonic movement
+[SOFT] Volcanoes erupt molten rock
+[SOFT] Plate tectonics describes movement of Earth crust
+[SOFT] Continental drift separates landmasses
+[SOFT] Mountains form from tectonic uplift
+[SOFT] Erosion wears down rock
+[SOFT] Sediment accumulates in layers
+[SOFT] Rock cycle transforms rock types
+[SOFT] Igneous rocks form from cooling magma
+[SOFT] Sedimentary rocks form from compressed sediment
+[SOFT] Metamorphic rocks form from heat and pressure
+[SOFT] Minerals have crystalline structure
+[SOFT] Quartz is silicon dioxide
+[SOFT] Calcite contains calcium carbonate
+[SOFT] Diamonds are extremely hard
+[SOFT] The Earth has layers
+[SOFT] The crust is the outermost layer
+[SOFT] The mantle lies beneath the crust
+[SOFT] The core is at Earth center
+[SOFT] The inner core is solid
+[SOFT] The outer core is liquid
+[SOFT] Earth magnetic field extends into space
+[SOFT] The magnetosphere protects from solar wind
+[SOFT] Solar flares emit radiation
+[SOFT] Sunspots are dark regions on the Sun
+[SOFT] The Sun rotates
+[SOFT] Solar eclipses occur when the Moon blocks the Sun
+[SOFT] Lunar eclipses occur when Earth blocks sunlight to the Moon
+[SOFT] The Moon has phases
+[SOFT] Full moon occurs when the Moon is opposite the Sun
+[SOFT] New moon occurs when the Moon is between Earth and Sun
+[SOFT] The Moon has no atmosphere
+[SOFT] Mercury has no atmosphere
+[SOFT] Venus has a thick atmosphere
+[SOFT] Mars has a thin atmosphere
+[SOFT] Jupiter has a strong magnetic field
+[SOFT] Jupiter has a Great Red Spot
+[SOFT] Saturn rings consist of ice and rock particles
+[SOFT] Titan is Saturn largest moon
+[SOFT] Europa is a moon of Jupiter
+[SOFT] Pluto is a dwarf planet
+[SOFT] Asteroids orbit mainly between Mars and Jupiter
+[SOFT] The Kuiper Belt contains icy bodies beyond Neptune
+[SOFT] The Oort Cloud is a distant region of comets
+[SOFT] Light years measure astronomical distances
+[SOFT] Parsecs measure astronomical distances
+[SOFT] Stars vary in size and temperature
+[SOFT] Blue stars are hotter than red stars
+[SOFT] Constellations are patterns of stars
+[SOFT] Nebulae are clouds of gas and dust
+[SOFT] Star clusters contain many stars
+[SOFT] Binary stars orbit each other
+[SOFT] Supernovae are stellar explosions
+[SOFT] Pulsars are rotating neutron stars
+[SOFT] Quasars are extremely luminous objects
