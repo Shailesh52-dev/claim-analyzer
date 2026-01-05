@@ -1,0 +1,486 @@
+{"type": "composition_indicator", "value": "made of"}
+{"type": "composition_indicator", "value": "consists of"}
+{"type": "composition_indicator", "value": "composed of"}
+{"type": "composition_indicator", "value": "constructed from"}
+{"type": "composition_indicator", "value": "formed from"}
+{"type": "composition_indicator", "value": "built from"}
+{"type": "composition_indicator", "value": "contains"}
+{"type": "composition_indicator", "value": "includes"}
+{"type": "impossible_material", "value": "square circle"}
+{"type": "impossible_material", "value": "wooden iron"}
+{"type": "impossible_material", "value": "liquid rock at room temperature"}
+{"type": "impossible_material", "value": "gaseous diamond at standard conditions"}
+{"type": "impossible_material", "value": "solid oxygen at room temperature"}
+{"type": "impossible_material", "value": "frozen steam at 100 celsius"}
+{"type": "impossible_material", "value": "transparent lead"}
+{"type": "impossible_material", "value": "weightless gold"}
+{"type": "impossible_material", "value": "massless matter"}
+{"type": "impossible_material", "value": "invisible light source"}
+{"type": "identity_pair", "value": ["water", "h2o"]}
+{"type": "identity_pair", "value": ["salt", "sodium chloride"]}
+{"type": "identity_pair", "value": ["table salt", "nacl"]}
+{"type": "identity_pair", "value": ["carbon dioxide", "co2"]}
+{"type": "identity_pair", "value": ["oxygen gas", "o2"]}
+{"type": "identity_pair", "value": ["nitrogen gas", "n2"]}
+{"type": "identity_pair", "value": ["hydrogen gas", "h2"]}
+{"type": "identity_pair", "value": ["methane", "ch4"]}
+{"type": "identity_pair", "value": ["ammonia", "nh3"]}
+{"type": "identity_pair", "value": ["glucose", "c6h12o6"]}
+{"type": "identity_pair", "value": ["diamond", "carbon"]}
+{"type": "identity_pair", "value": ["graphite", "carbon"]}
+{"type": "identity_pair", "value": ["ozone", "o3"]}
+{"type": "identity_pair", "value": ["hydrogen peroxide", "h2o2"]}
+{"type": "identity_pair", "value": ["sulfuric acid", "h2so4"]}
+{"type": "identity_pair", "value": ["hydrochloric acid", "hcl"]}
+{"type": "identity_pair", "value": ["nitric acid", "hno3"]}
+{"type": "identity_pair", "value": ["sodium hydroxide", "naoh"]}
+{"type": "identity_pair", "value": ["calcium carbonate", "caco3"]}
+{"type": "identity_pair", "value": ["iron oxide", "rust"]}
+{"type": "physical_impossibility", "value": "traveling faster than light"}
+{"type": "physical_impossibility", "value": "perpetual motion machine"}
+{"type": "physical_impossibility", "value": "temperature below absolute zero"}
+{"type": "physical_impossibility", "value": "mass traveling at light speed"}
+{"type": "physical_impossibility", "value": "creating energy from nothing"}
+{"type": "physical_impossibility", "value": "destroying energy completely"}
+{"type": "physical_impossibility", "value": "creating mass from nothing"}
+{"type": "physical_impossibility", "value": "matter without mass"}
+{"type": "physical_impossibility", "value": "negative absolute temperature"}
+{"type": "physical_impossibility", "value": "object with infinite mass"}
+{"type": "physical_impossibility", "value": "object with infinite density at finite size"}
+{"type": "physical_impossibility", "value": "sound in vacuum"}
+{"type": "physical_impossibility", "value": "light without photons"}
+{"type": "physical_impossibility", "value": "magnetic monopole"}
+{"type": "physical_impossibility", "value": "reversing entropy in isolated system"}
+{"type": "physical_impossibility", "value": "100 percent efficient heat engine"}
+{"type": "physical_impossibility", "value": "observing superposition without collapse"}
+{"type": "physical_impossibility", "value": "cloning quantum state perfectly"}
+{"type": "physical_impossibility", "value": "communicating faster than light"}
+{"type": "physical_impossibility", "value": "object simultaneously at two locations"}
+{"type": "category_conflict", "value": "living rock"}
+{"type": "category_conflict", "value": "dead water"}
+{"type": "category_conflict", "value": "gaseous solid"}
+{"type": "category_conflict", "value": "liquid gas"}
+{"type": "category_conflict", "value": "frozen fire"}
+{"type": "category_conflict", "value": "dark light"}
+{"type": "category_conflict", "value": "silent sound"}
+{"type": "category_conflict", "value": "square circle"}
+{"type": "category_conflict", "value": "straight curve"}
+{"type": "category_conflict", "value": "stationary motion"}
+{"type": "category_conflict", "value": "invisible color"}
+{"type": "category_conflict", "value": "odorless smell"}
+{"type": "category_conflict", "value": "tasteless flavor"}
+{"type": "category_conflict", "value": "weightless mass"}
+{"type": "category_conflict", "value": "immaterial matter"}
+{"type": "category_conflict", "value": "timeless duration"}
+{"type": "category_conflict", "value": "spaceless volume"}
+{"type": "category_conflict", "value": "dimensionless area"}
+{"type": "category_conflict", "value": "uncaused effect"}
+{"type": "category_conflict", "value": "effect without cause"}
+{"type": "category_conflict", "value": "beginning without start"}
+{"type": "category_conflict", "value": "end without finish"}
+{"type": "category_conflict", "value": "whole without parts"}
+{"type": "category_conflict", "value": "part without whole"}
+{"type": "category_conflict", "value": "parent without offspring"}
+{"type": "category_conflict", "value": "offspring without parent"}
+{"type": "category_conflict", "value": "number without quantity"}
+{"type": "category_conflict", "value": "quantity without number"}
+{"type": "category_conflict", "value": "shape without form"}
+{"type": "category_conflict", "value": "form without shape"}
+{"type": "category_conflict", "value": "positive negative charge"}
+{"type": "category_conflict", "value": "neutral charged particle"}
+{"type": "category_conflict", "value": "acidic basic solution simultaneously"}
+{"type": "category_conflict", "value": "solid liquid at same temperature and pressure"}
+{"type": "category_conflict", "value": "hot cold object simultaneously"}
+{"type": "category_conflict", "value": "moving stationary object simultaneously"}
+{"type": "category_conflict", "value": "accelerating constant velocity simultaneously"}
+{"type": "category_conflict", "value": "expanding contracting simultaneously"}
+{"type": "category_conflict", "value": "increasing decreasing simultaneously"}
+{"type": "category_conflict", "value": "present absent simultaneously"}
+{"type": "category_conflict", "value": "open closed simultaneously"}
+{"type": "category_conflict", "value": "on off simultaneously"}
+{"type": "category_conflict", "value": "true false simultaneously"}
+{"type": "category_conflict", "value": "even odd number"}
+{"type": "category_conflict", "value": "rational irrational number"}
+{"type": "category_conflict", "value": "finite infinite value"}
+{"type": "category_conflict", "value": "convergent divergent series"}
+{"type": "category_conflict", "value": "continuous discontinuous function at same point"}
+{"type": "category_conflict", "value": "differentiable non-differentiable at same point"}
+{"type": "category_conflict", "value": "organic inorganic compound simultaneously"}
+{"type": "category_conflict", "value": "living non-living entity"}
+{"type": "category_conflict", "value": "animate inanimate object"}
+{"type": "category_conflict", "value": "conscious unconscious state simultaneously"}
+{"type": "category_conflict", "value": "vertebrate invertebrate simultaneously"}
+{"type": "category_conflict", "value": "plant animal simultaneously"}
+{"type": "category_conflict", "value": "prokaryote eukaryote simultaneously"}
+{"type": "category_conflict", "value": "element compound"}
+{"type": "category_conflict", "value": "atom molecule of single atom"}
+{"type": "category_conflict", "value": "metal non-metal element simultaneously"}
+{"type": "category_conflict", "value": "conductor insulator simultaneously"}
+{"type": "category_conflict", "value": "transparent opaque simultaneously"}
+{"type": "category_conflict", "value": "elastic rigid simultaneously"}
+{"type": "category_conflict", "value": "brittle ductile simultaneously"}
+{"type": "category_conflict", "value": "magnetic non-magnetic simultaneously"}
+{"type": "category_conflict", "value": "radioactive stable isotope"}
+{"type": "category_conflict", "value": "exothermic endothermic reaction simultaneously"}
+{"type": "category_conflict", "value": "oxidation reduction simultaneously on same atom"}
+{"type": "category_conflict", "value": "acid base simultaneously"}
+{"type": "category_conflict", "value": "polar nonpolar molecule simultaneously"}
+{"type": "category_conflict", "value": "saturated unsaturated bond"}
+{"type": "category_conflict", "value": "aromatic aliphatic compound simultaneously"}
+{"type": "category_conflict", "value": "crystalline amorphous structure simultaneously"}
+{"type": "category_conflict", "value": "pure mixture"}
+{"type": "category_conflict", "value": "homogeneous heterogeneous simultaneously"}
+{"type": "category_conflict", "value": "solution suspension simultaneously"}
+{"type": "category_conflict", "value": "isotope same mass number"}
+{"type": "category_conflict", "value": "ion neutral atom simultaneously"}
+{"type": "category_conflict", "value": "cation anion simultaneously"}
+{"type": "category_conflict", "value": "monatomic polyatomic simultaneously"}
+{"type": "category_conflict", "value": "primary secondary color"}
+{"type": "category_conflict", "value": "visible invisible light"}
+{"type": "category_conflict", "value": "audible inaudible sound"}
+{"type": "category_conflict", "value": "real virtual image simultaneously"}
+{"type": "category_conflict", "value": "converging diverging lens simultaneously"}
+{"type": "category_conflict", "value": "concave convex simultaneously"}
+{"type": "category_conflict", "value": "reflection refraction simultaneously at same point"}
+{"type": "category_conflict", "value": "transparent reflective surface completely"}
+{"type": "category_conflict", "value": "absorption emission simultaneously"}
+{"type": "category_conflict", "value": "wave particle exclusively"}
+{"type": "category_conflict", "value": "longitudinal transverse wave simultaneously"}
+{"type": "category_conflict", "value": "node antinode at same position"}
+{"type": "category_conflict", "value": "constructive destructive interference at same point"}
+{"type": "category_conflict", "value": "in phase out of phase simultaneously"}
+{"type": "category_conflict", "value": "resonance damping simultaneously"}
+{"type": "category_conflict", "value": "series parallel circuit simultaneously"}
+{"type": "category_conflict", "value": "alternating direct current simultaneously"}
+{"type": "category_conflict", "value": "charging discharging simultaneously"}
+{"type": "category_conflict", "value": "north south pole simultaneously"}
+{"type": "category_conflict", "value": "attract repel simultaneously"}
+{"type": "category_conflict", "value": "electric magnetic field exclusively"}
+{"type": "category_conflict", "value": "static dynamic equilibrium"}
+{"type": "category_conflict", "value": "stable unstable equilibrium simultaneously"}
+{"type": "category_conflict", "value": "balanced unbalanced forces"}
+{"type": "category_conflict", "value": "uniform accelerated motion simultaneously"}
+{"type": "category_conflict", "value": "inertial non-inertial frame simultaneously"}
+{"type": "category_conflict", "value": "reversible irreversible process"}
+{"type": "category_conflict", "value": "adiabatic isothermal process simultaneously"}
+{"type": "category_conflict", "value": "isobaric isochoric process simultaneously"}
+{"type": "category_conflict", "value": "ideal real gas simultaneously"}
+{"type": "category_conflict", "value": "elastic inelastic collision"}
+{"type": "category_conflict", "value": "head-on glancing collision simultaneously"}
+{"type": "category_conflict", "value": "central non-central force"}
+{"type": "category_conflict", "value": "conservative non-conservative force"}
+{"type": "category_conflict", "value": "contact non-contact force"}
+{"type": "category_conflict", "value": "scalar vector quantity"}
+{"type": "category_conflict", "value": "fundamental derived unit"}
+{"type": "category_conflict", "value": "extensive intensive property"}
+{"type": "category_conflict", "value": "microscopic macroscopic scale simultaneously"}
+{"type": "category_conflict", "value": "quantum classical regime simultaneously"}
+{"type": "category_conflict", "value": "deterministic probabilistic exclusively"}
+{"type": "category_conflict", "value": "local non-local simultaneously"}
+{"type": "category_conflict", "value": "separable entangled state"}
+{"type": "category_conflict", "value": "pure mixed quantum state"}
+{"type": "category_conflict", "value": "ground excited state simultaneously"}
+{"type": "category_conflict", "value": "bound free state simultaneously"}
+{"type": "category_conflict", "value": "fermion boson"}
+{"type": "category_conflict", "value": "matter antimatter simultaneously"}
+{"type": "category_conflict", "value": "particle antiparticle simultaneously"}
+{"type": "category_conflict", "value": "lepton hadron"}
+{"type": "category_conflict", "value": "baryon meson"}
+{"type": "category_conflict", "value": "quark antiquark simultaneously"}
+{"type": "category_conflict", "value": "up down quark flavor"}
+{"type": "category_conflict", "value": "strange charm quark flavor"}
+{"type": "category_conflict", "value": "top bottom quark flavor"}
+{"type": "category_conflict", "value": "electron neutrino muon neutrino"}
+{"type": "category_conflict", "value": "weak strong force"}
+{"type": "category_conflict", "value": "gravitational electromagnetic force"}
+{"type": "category_conflict", "value": "short-range long-range force"}
+{"type": "category_conflict", "value": "attractive repulsive exclusively"}
+{"type": "category_conflict", "value": "radial tangential direction"}
+{"type": "category_conflict", "value": "centripetal centrifugal force"}
+{"type": "category_conflict", "value": "real apparent force"}
+{"type": "category_conflict", "value": "normal tangential acceleration"}
+{"type": "category_conflict", "value": "linear angular motion exclusively"}
+{"type": "category_conflict", "value": "translational rotational motion exclusively"}
+{"type": "category_conflict", "value": "rolling sliding exclusively"}
+{"type": "category_conflict", "value": "laminar turbulent flow simultaneously"}
+{"type": "category_conflict", "value": "viscous inviscid fluid"}
+{"type": "category_conflict", "value": "compressible incompressible fluid"}
+{"type": "category_conflict", "value": "subsonic supersonic simultaneously"}
+{"type": "category_conflict", "value": "streamline turbulent flow"}
+{"type": "category_conflict", "value": "potential kinetic energy exclusively"}
+{"type": "category_conflict", "value": "mechanical thermal energy exclusively"}
+{"type": "category_conflict", "value": "ordered disordered energy"}
+{"type": "category_conflict", "value": "available unavailable energy"}
+{"type": "category_conflict", "value": "renewable non-renewable simultaneously"}
+{"type": "category_conflict", "value": "fission fusion reaction"}
+{"type": "category_conflict", "value": "chain non-chain reaction"}
+{"type": "category_conflict", "value": "critical subcritical simultaneously"}
+{"type": "category_conflict", "value": "spontaneous induced process"}
+{"type": "category_conflict", "value": "natural artificial element"}
+{"type": "category_conflict", "value": "stable radioactive isotope"}
+{"type": "category_conflict", "value": "alpha beta decay simultaneously"}
+{"type": "category_conflict", "value": "beta plus beta minus decay"}
+{"type": "category_conflict", "value": "emission absorption spectrum"}
+{"type": "category_conflict", "value": "continuous line spectrum"}
+{"type": "category_conflict", "value": "bright dark fringe"}
+{"type": "category_conflict", "value": "maximum minimum intensity"}
+{"type": "logical_operator", "value": "and"}
+{"type": "logical_operator", "value": "or"}
+{"type": "logical_operator", "value": "not"}
+{"type": "logical_operator", "value": "if then"}
+{"type": "logical_operator", "value": "implies"}
+{"type": "logical_operator", "value": "equivalent"}
+{"type": "logical_operator", "value": "equal"}
+{"type": "logical_operator", "value": "unequal"}
+{"type": "logical_operator", "value": "greater than"}
+{"type": "logical_operator", "value": "less than"}
+{"type": "logical_operator", "value": "at least"}
+{"type": "logical_operator", "value": "at most"}
+{"type": "logical_operator", "value": "all"}
+{"type": "logical_operator", "value": "some"}
+{"type": "logical_operator", "value": "none"}
+{"type": "logical_operator", "value": "exists"}
+{"type": "logical_operator", "value": "for all"}
+{"type": "logical_operator", "value": "only if"}
+{"type": "logical_operator", "value": "unless"}
+{"type": "logical_operator", "value": "except"}
+{"type": "logical_operator", "value": "but"}
+{"type": "logical_operator", "value": "however"}
+{"type": "logical_operator", "value": "although"}
+{"type": "logical_operator", "value": "whereas"}
+{"type": "logical_operator", "value": "while"}
+{"type": "logical_operator", "value": "neither"}
+{"type": "logical_operator", "value": "nor"}
+{"type": "logical_operator", "value": "both"}
+{"type": "logical_operator", "value": "either"}
+{"type": "logical_operator", "value": "includes"}
+{"type": "logical_operator", "value": "excludes"}
+{"type": "logical_operator", "value": "contains"}
+{"type": "logical_operator", "value": "lacks"}
+{"type": "logical_operator", "value": "has"}
+{"type": "logical_operator", "value": "without"}
+{"type": "logical_operator", "value": "with"}
+{"type": "logical_operator", "value": "plus"}
+{"type": "logical_operator", "value": "minus"}
+{"type": "logical_operator", "value": "times"}
+{"type": "logical_operator", "value": "divided by"}
+{"type": "logical_operator", "value": "is"}
+{"type": "logical_operator", "value": "is not"}
+{"type": "logical_operator", "value": "becomes"}
+{"type": "logical_operator", "value": "remains"}
+{"type": "logical_operator", "value": "transforms into"}
+{"type": "logical_operator", "value": "converts to"}
+{"type": "logical_operator", "value": "changes to"}
+{"type": "logical_operator", "value": "stays"}
+{"type": "logical_operator", "value": "increases"}
+{"type": "logical_operator", "value": "decreases"}
+{"type": "logical_operator", "value": "multiplies"}
+{"type": "logical_operator", "value": "divides"}
+{"type": "logical_operator", "value": "adds"}
+{"type": "logical_operator", "value": "subtracts"}
+{"type": "logical_operator", "value": "raises to"}
+{"type": "logical_operator", "value": "root of"}
+{"type": "logical_operator", "value": "inverse"}
+{"type": "logical_operator", "value": "reciprocal"}
+{"type": "logical_operator", "value": "opposite"}
+{"type": "logical_operator", "value": "complement"}
+{"type": "logical_operator", "value": "negation"}
+{"type": "logical_operator", "value": "conjunction"}
+{"type": "logical_operator", "value": "disjunction"}
+{"type": "logical_operator", "value": "conditional"}
+{"type": "logical_operator", "value": "biconditional"}
+{"type": "logical_operator", "value": "therefore"}
+{"type": "logical_operator", "value": "thus"}
+{"type": "logical_operator", "value": "hence"}
+{"type": "logical_operator", "value": "consequently"}
+{"type": "logical_operator", "value": "because"}
+{"type": "logical_operator", "value": "since"}
+{"type": "logical_operator", "value": "given that"}
+{"type": "logical_operator", "value": "provided that"}
+{"type": "logical_operator", "value": "assuming"}
+{"type": "logical_operator", "value": "suppose"}
+{"type": "logical_operator", "value": "suppose that"}
+{"type": "logical_operator", "value": "if and only if"}
+{"type": "logical_operator", "value": "necessary"}
+{"type": "logical_operator", "value": "sufficient"}
+{"type": "logical_operator", "value": "required"}
+{"type": "logical_operator", "value": "implies that"}
+{"type": "logical_operator", "value": "follows that"}
+{"type": "logical_operator", "value": "entails"}
+{"type": "logical_operator", "value": "means"}
+{"type": "logical_operator", "value": "signifies"}
+{"type": "logical_operator", "value": "indicates"}
+{"type": "logical_operator", "value": "shows"}
+{"type": "logical_operator", "value": "demonstrates"}
+{"type": "logical_operator", "value": "proves"}
+{"type": "logical_operator", "value": "disproves"}
+{"type": "logical_operator", "value": "contradicts"}
+{"type": "logical_operator", "value": "consistent with"}
+{"type": "logical_operator", "value": "inconsistent with"}
+{"type": "logical_operator", "value": "compatible with"}
+{"type": "logical_operator", "value": "incompatible with"}
+{"type": "logical_operator", "value": "belongs to"}
+{"type": "logical_operator", "value": "member of"}
+{"type": "logical_operator", "value": "subset of"}
+{"type": "logical_operator", "value": "superset of"}
+{"type": "logical_operator", "value": "element of"}
+{"type": "logical_operator", "value": "part of"}
+{"type": "logical_operator", "value": "within"}
+{"type": "logical_operator", "value": "outside"}
+{"type": "logical_operator", "value": "inside"}
+{"type": "logical_operator", "value": "beyond"}
+{"type": "logical_operator", "value": "above"}
+{"type": "logical_operator", "value": "below"}
+{"type": "logical_operator", "value": "before"}
+{"type": "logical_operator", "value": "after"}
+{"type": "logical_operator", "value": "during"}
+{"type": "logical_operator", "value": "until"}
+{"type": "logical_operator", "value": "since time"}
+{"type": "logical_operator", "value": "from"}
+{"type": "logical_operator", "value": "to"}
+{"type": "logical_operator", "value": "between"}
+{"type": "logical_operator", "value": "among"}
+{"type": "logical_operator", "value": "throughout"}
+{"type": "logical_operator", "value": "across"}
+{"type": "logical_operator", "value": "along"}
+{"type": "logical_operator", "value": "around"}
+{"type": "logical_operator", "value": "through"}
+{"type": "logical_operator", "value": "over"}
+{"type": "logical_operator", "value": "under"}
+{"type": "logical_operator", "value": "against"}
+{"type": "logical_operator", "value": "toward"}
+{"type": "logical_operator", "value": "away from"}
+{"type": "logical_operator", "value": "into"}
+{"type": "logical_operator", "value": "out of"}
+{"type": "logical_operator", "value": "onto"}
+{"type": "logical_operator", "value": "off"}
+{"type": "logical_operator", "value": "upon"}
+{"type": "logical_operator", "value": "within range"}
+{"type": "logical_operator", "value": "outside range"}
+{"type": "logical_operator", "value": "in domain"}
+{"type": "logical_operator", "value": "not in domain"}
+{"type": "logical_operator", "value": "maps to"}
+{"type": "logical_operator", "value": "corresponds to"}
+{"type": "logical_operator", "value": "relates to"}
+{"type": "logical_operator", "value": "proportional to"}
+{"type": "logical_operator", "value": "inversely proportional to"}
+{"type": "logical_operator", "value": "varies with"}
+{"type": "logical_operator", "value": "depends on"}
+{"type": "logical_operator", "value": "independent of"}
+{"type": "logical_operator", "value": "function of"}
+{"type": "logical_operator", "value": "determines"}
+{"type": "logical_operator", "value": "affects"}
+{"type": "logical_operator", "value": "influences"}
+{"type": "logical_operator", "value": "causes"}
+{"type": "logical_operator", "value": "results in"}
+{"type": "logical_operator", "value": "produces"}
+{"type": "logical_operator", "value": "generates"}
+{"type": "logical_operator", "value": "yields"}
+{"type": "logical_operator", "value": "gives"}
+{"type": "logical_operator", "value": "creates"}
+{"type": "logical_operator", "value": "forms"}
+{"type": "logical_operator", "value": "makes"}
+{"type": "logical_operator", "value": "constructs"}
+{"type": "logical_operator", "value": "builds"}
+{"type": "logical_operator", "value": "destroys"}
+{"type": "logical_operator", "value": "breaks"}
+{"type": "logical_operator", "value": "splits"}
+{"type": "logical_operator", "value": "combines"}
+{"type": "logical_operator", "value": "merges"}
+{"type": "logical_operator", "value": "unites"}
+{"type": "logical_operator", "value": "separates"}
+{"type": "logical_operator", "value": "divides into"}
+{"type": "logical_operator", "value": "composed of parts"}
+{"type": "logical_operator", "value": "consists of parts"}
+{"type": "logical_operator", "value": "made up of"}
+{"type": "logical_operator", "value": "comprises"}
+{"type": "logical_operator", "value": "constitutes"}
+{"type": "logical_operator", "value": "represents"}
+{"type": "logical_operator", "value": "symbolizes"}
+{"type": "logical_operator", "value": "denotes"}
+{"type": "logical_operator", "value": "refers to"}
+{"type": "logical_operator", "value": "stands for"}
+{"type": "logical_operator", "value": "equal to"}
+{"type": "logical_operator", "value": "identical to"}
+{"type": "logical_operator", "value": "same as"}
+{"type": "logical_operator", "value": "different from"}
+{"type": "logical_operator", "value": "distinct from"}
+{"type": "logical_operator", "value": "similar to"}
+{"type": "logical_operator", "value": "dissimilar to"}
+{"type": "logical_operator", "value": "analogous to"}
+{"type": "logical_operator", "value": "comparable to"}
+{"type": "logical_operator", "value": "contrasts with"}
+{"type": "logical_operator", "value": "opposed to"}
+{"type": "logical_operator", "value": "contrary to"}
+{"type": "logical_operator", "value": "converse of"}
+{"type": "logical_operator", "value": "reverse of"}
+{"type": "logical_operator", "value": "dual of"}
+{"type": "logical_operator", "value": "symmetric to"}
+{"type": "logical_operator", "value": "asymmetric to"}
+{"type": "logical_operator", "value": "transitive over"}
+{"type": "logical_operator", "value": "reflexive on"}
+{"type": "logical_operator", "value": "commutes with"}
+{"type": "logical_operator", "value": "associates with"}
+{"type": "logical_operator", "value": "distributes over"}
+{"type": "logical_operator", "value": "satisfies"}
+{"type": "logical_operator", "value": "violates"}
+{"type": "logical_operator", "value": "obeys"}
+{"type": "logical_operator", "value": "follows rule"}
+{"type": "logical_operator", "value": "true for"}
+{"type": "logical_operator", "value": "false for"}
+{"type": "logical_operator", "value": "holds when"}
+{"type": "logical_operator", "value": "fails when"}
+{"type": "logical_operator", "value": "applies to"}
+{"type": "logical_operator", "value": "applies when"}
+{"type": "logical_operator", "value": "valid for"}
+{"type": "logical_operator", "value": "invalid for"}
+{"type": "logical_operator", "value": "defined for"}
+{"type": "logical_operator", "value": "undefined for"}
+{"type": "logical_operator", "value": "exists when"}
+{"type": "logical_operator", "value": "does not exist when"}
+{"type": "logical_operator", "value": "possible when"}
+{"type": "logical_operator", "value": "impossible when"}
+{"type": "logical_operator", "value": "allowed when"}
+{"type": "logical_operator", "value": "forbidden when"}
+{"type": "logical_operator", "value": "permitted if"}
+{"type": "logical_operator", "value": "prohibited if"}
+{"type": "logical_operator", "value": "required when"}
+{"type": "logical_operator", "value": "optional when"}
+{"type": "logical_operator", "value": "necessary when"}
+{"type": "logical_operator", "value": "sufficient when"}
+{"type": "logical_operator", "value": "completes"}
+{"type": "logical_operator", "value": "partial"}
+{"type": "composition_indicator", "value": "mixture of"}
+{"type": "composition_indicator", "value": "blend of"}
+{"type": "composition_indicator", "value": "combination of"}
+{"type": "composition_indicator", "value": "alloy of"}
+{"type": "composition_indicator", "value": "solution of"}
+{"type": "composition_indicator", "value": "compound of"}
+{"type": "impossible_material", "value": "dry water"}
+{"type": "impossible_material", "value": "hot ice at standard pressure"}
+{"type": "impossible_material", "value": "cold fire"}
+{"type": "impossible_material", "value": "liquid metal at absolute zero"}
+{"type": "impossible_material", "value": "solid gas at high temperature"}
+{"type": "impossible_material", "value": "elastic glass"}
+{"type": "impossible_material", "value": "flexible diamond"}
+{"type": "impossible_material", "value": "compressible solid metal"}
+{"type": "physical_impossibility", "value": "negative mass"}
+{"type": "physical_impossibility", "value": "negative energy in vacuum"}
+{"type": "physical_impossibility", "value": "infinite energy from finite source"}
+{"type": "physical_impossibility", "value": "time travel to past"}
+{"type": "physical_impossibility", "value": "closed timelike curve"}
+{"type": "physical_impossibility", "value": "wormhole without exotic matter"}
+{"type": "physical_impossibility", "value": "information traveling faster than light"}
+{"type": "physical_impossibility", "value": "perfect vacuum with particles"}
+{"type": "physical_impossibility", "value": "zero uncertainty"}
+{"type": "physical_impossibility", "value": "observing position and momentum exactly"}
+{"type": "identity_pair", "value": ["baking soda", "sodium bicarbonate"]}
+{"type": "identity_pair", "value": ["limestone", "calcium carbonate"]}
+{"type": "identity_pair", "value": ["dry ice", "solid carbon dioxide"]}
+{"type": "identity_pair", "value": ["rubbing alcohol", "isopropanol"]}
+{"type": "identity_pair", "value": ["acetone", "propanone"]}
+{"type": "identity_pair", "value": ["vitamin c", "ascorbic acid"]}
+{"type": "identity_pair", "value": ["aspirin", "acetylsalicylic acid"]}
+{"type": "identity_pair", "value": ["quartz", "silicon dioxide"]}
+{"type": "identity_pair", "value": ["iron ore", "iron oxide"]}
+{"type": "identity_pair", "value": ["galena", "lead sulfide"]}

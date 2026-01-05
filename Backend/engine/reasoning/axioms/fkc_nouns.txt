@@ -1,0 +1,486 @@
+composition_indicator: made of
+composition_indicator: consists of
+composition_indicator: composed of
+composition_indicator: constructed from
+composition_indicator: formed from
+composition_indicator: built from
+composition_indicator: contains
+composition_indicator: includes
+impossible_material: square circle
+impossible_material: wooden iron
+impossible_material: liquid rock at room temperature
+impossible_material: gaseous diamond at standard conditions
+impossible_material: solid oxygen at room temperature
+impossible_material: frozen steam at 100 celsius
+impossible_material: transparent lead
+impossible_material: weightless gold
+impossible_material: massless matter
+impossible_material: invisible light source
+identity_pair: water | h2o
+identity_pair: salt | sodium chloride
+identity_pair: table salt | nacl
+identity_pair: carbon dioxide | co2
+identity_pair: oxygen gas | o2
+identity_pair: nitrogen gas | n2
+identity_pair: hydrogen gas | h2
+identity_pair: methane | ch4
+identity_pair: ammonia | nh3
+identity_pair: glucose | c6h12o6
+identity_pair: diamond | carbon
+identity_pair: graphite | carbon
+identity_pair: ozone | o3
+identity_pair: hydrogen peroxide | h2o2
+identity_pair: sulfuric acid | h2so4
+identity_pair: hydrochloric acid | hcl
+identity_pair: nitric acid | hno3
+identity_pair: sodium hydroxide | naoh
+identity_pair: calcium carbonate | caco3
+identity_pair: iron oxide | rust
+physical_impossibility: traveling faster than light
+physical_impossibility: perpetual motion machine
+physical_impossibility: temperature below absolute zero
+physical_impossibility: mass traveling at light speed
+physical_impossibility: creating energy from nothing
+physical_impossibility: destroying energy completely
+physical_impossibility: creating mass from nothing
+physical_impossibility: matter without mass
+physical_impossibility: negative absolute temperature
+physical_impossibility: object with infinite mass
+physical_impossibility: object with infinite density at finite size
+physical_impossibility: sound in vacuum
+physical_impossibility: light without photons
+physical_impossibility: magnetic monopole
+physical_impossibility: reversing entropy in isolated system
+physical_impossibility: 100 percent efficient heat engine
+physical_impossibility: observing superposition without collapse
+physical_impossibility: cloning quantum state perfectly
+physical_impossibility: communicating faster than light
+physical_impossibility: object simultaneously at two locations
+category_conflict: living rock
+category_conflict: dead water
+category_conflict: gaseous solid
+category_conflict: liquid gas
+category_conflict: frozen fire
+category_conflict: dark light
+category_conflict: silent sound
+category_conflict: square circle
+category_conflict: straight curve
+category_conflict: stationary motion
+category_conflict: invisible color
+category_conflict: odorless smell
+category_conflict: tasteless flavor
+category_conflict: weightless mass
+category_conflict: immaterial matter
+category_conflict: timeless duration
+category_conflict: spaceless volume
+category_conflict: dimensionless area
+category_conflict: uncaused effect
+category_conflict: effect without cause
+category_conflict: beginning without start
+category_conflict: end without finish
+category_conflict: whole without parts
+category_conflict: part without whole
+category_conflict: parent without offspring
+category_conflict: offspring without parent
+category_conflict: number without quantity
+category_conflict: quantity without number
+category_conflict: shape without form
+category_conflict: form without shape
+category_conflict: positive negative charge
+category_conflict: neutral charged particle
+category_conflict: acidic basic solution simultaneously
+category_conflict: solid liquid at same temperature and pressure
+category_conflict: hot cold object simultaneously
+category_conflict: moving stationary object simultaneously
+category_conflict: accelerating constant velocity simultaneously
+category_conflict: expanding contracting simultaneously
+category_conflict: increasing decreasing simultaneously
+category_conflict: present absent simultaneously
+category_conflict: open closed simultaneously
+category_conflict: on off simultaneously
+category_conflict: true false simultaneously
+category_conflict: even odd number
+category_conflict: rational irrational number
+category_conflict: finite infinite value
+category_conflict: convergent divergent series
+category_conflict: continuous discontinuous function at same point
+category_conflict: differentiable non-differentiable at same point
+category_conflict: organic inorganic compound simultaneously
+category_conflict: living non-living entity
+category_conflict: animate inanimate object
+category_conflict: conscious unconscious state simultaneously
+category_conflict: vertebrate invertebrate simultaneously
+category_conflict: plant animal simultaneously
+category_conflict: prokaryote eukaryote simultaneously
+category_conflict: element compound
+category_conflict: atom molecule of single atom
+category_conflict: metal non-metal element simultaneously
+category_conflict: conductor insulator simultaneously
+category_conflict: transparent opaque simultaneously
+category_conflict: elastic rigid simultaneously
+category_conflict: brittle ductile simultaneously
+category_conflict: magnetic non-magnetic simultaneously
+category_conflict: radioactive stable isotope
+category_conflict: exothermic endothermic reaction simultaneously
+category_conflict: oxidation reduction simultaneously on same atom
+category_conflict: acid base simultaneously
+category_conflict: polar nonpolar molecule simultaneously
+category_conflict: saturated unsaturated bond
+category_conflict: aromatic aliphatic compound simultaneously
+category_conflict: crystalline amorphous structure simultaneously
+category_conflict: pure mixture
+category_conflict: homogeneous heterogeneous simultaneously
+category_conflict: solution suspension simultaneously
+category_conflict: isotope same mass number
+category_conflict: ion neutral atom simultaneously
+category_conflict: cation anion simultaneously
+category_conflict: monatomic polyatomic simultaneously
+category_conflict: primary secondary color
+category_conflict: visible invisible light
+category_conflict: audible inaudible sound
+category_conflict: real virtual image simultaneously
+category_conflict: converging diverging lens simultaneously
+category_conflict: concave convex simultaneously
+category_conflict: reflection refraction simultaneously at same point
+category_conflict: transparent reflective surface completely
+category_conflict: absorption emission simultaneously
+category_conflict: wave particle exclusively
+category_conflict: longitudinal transverse wave simultaneously
+category_conflict: node antinode at same position
+category_conflict: constructive destructive interference at same point
+category_conflict: in phase out of phase simultaneously
+category_conflict: resonance damping simultaneously
+category_conflict: series parallel circuit simultaneously
+category_conflict: alternating direct current simultaneously
+category_conflict: charging discharging simultaneously
+category_conflict: north south pole simultaneously
+category_conflict: attract repel simultaneously
+category_conflict: electric magnetic field exclusively
+category_conflict: static dynamic equilibrium
+category_conflict: stable unstable equilibrium simultaneously
+category_conflict: balanced unbalanced forces
+category_conflict: uniform accelerated motion simultaneously
+category_conflict: inertial non-inertial frame simultaneously
+category_conflict: reversible irreversible process
+category_conflict: adiabatic isothermal process simultaneously
+category_conflict: isobaric isochoric process simultaneously
+category_conflict: ideal real gas simultaneously
+category_conflict: elastic inelastic collision
+category_conflict: head-on glancing collision simultaneously
+category_conflict: central non-central force
+category_conflict: conservative non-conservative force
+category_conflict: contact non-contact force
+category_conflict: scalar vector quantity
+category_conflict: fundamental derived unit
+category_conflict: extensive intensive property
+category_conflict: microscopic macroscopic scale simultaneously
+category_conflict: quantum classical regime simultaneously
+category_conflict: deterministic probabilistic exclusively
+category_conflict: local non-local simultaneously
+category_conflict: separable entangled state
+category_conflict:pure mixed quantum state
+category_conflict: ground excited state simultaneously
+category_conflict: bound free state simultaneously
+category_conflict: fermion boson
+category_conflict: matter antimatter simultaneously
+category_conflict: particle antiparticle simultaneously
+category_conflict: lepton hadron
+category_conflict: baryon meson
+category_conflict: quark antiquark simultaneously
+category_conflict: up down quark flavor
+category_conflict: strange charm quark flavor
+category_conflict: top bottom quark flavor
+category_conflict: electron neutrino muon neutrino
+category_conflict: weak strong force
+category_conflict: gravitational electromagnetic force
+category_conflict: short-range long-range force
+category_conflict: attractive repulsive exclusively
+category_conflict: radial tangential direction
+category_conflict: centripetal centrifugal force
+category_conflict: real apparent force
+category_conflict: normal tangential acceleration
+category_conflict: linear angular motion exclusively
+category_conflict: translational rotational motion exclusively
+category_conflict: rolling sliding exclusively
+category_conflict: laminar turbulent flow simultaneously
+category_conflict: viscous inviscid fluid
+category_conflict: compressible incompressible fluid
+category_conflict: subsonic supersonic simultaneously
+category_conflict: streamline turbulent flow
+category_conflict: potential kinetic energy exclusively
+category_conflict: mechanical thermal energy exclusively
+category_conflict: ordered disordered energy
+category_conflict: available unavailable energy
+category_conflict: renewable non-renewable simultaneously
+category_conflict: fission fusion reaction
+category_conflict: chain non-chain reaction
+category_conflict: critical subcritical simultaneously
+category_conflict: spontaneous induced process
+category_conflict: natural artificial element
+category_conflict: stable radioactive isotope
+category_conflict: alpha beta decay simultaneously
+category_conflict: beta plus beta minus decay
+category_conflict: emission absorption spectrum
+category_conflict: continuous line spectrum
+category_conflict: bright dark fringe
+category_conflict: maximum minimum intensity
+logical_operator: and
+logical_operator: or
+logical_operator: not
+logical_operator: if then
+logical_operator: implies
+logical_operator: equivalent
+logical_operator: equal
+logical_operator: unequal
+logical_operator: greater than
+logical_operator: less than
+logical_operator: at least
+logical_operator: at most
+logical_operator: all
+logical_operator: some
+logical_operator: none
+logical_operator: exists
+logical_operator: for all
+logical_operator: only if
+logical_operator: unless
+logical_operator: except
+logical_operator: but
+logical_operator: however
+logical_operator: although
+logical_operator: whereas
+logical_operator: while
+logical_operator: neither
+logical_operator: nor
+logical_operator: both
+logical_operator: either
+logical_operator: includes
+logical_operator: excludes
+logical_operator: contains
+logical_operator: lacks
+logical_operator: has
+logical_operator: without
+logical_operator: with
+logical_operator: plus
+logical_operator: minus
+logical_operator: times
+logical_operator: divided by
+logical_operator: is
+logical_operator: is not
+logical_operator: becomes
+logical_operator: remains
+logical_operator: transforms into
+logical_operator: converts to
+logical_operator: changes to
+logical_operator: stays
+logical_operator: increases
+logical_operator: decreases
+logical_operator: multiplies
+logical_operator: divides
+logical_operator: adds
+logical_operator: subtracts
+logical_operator: raises to
+logical_operator: root of
+logical_operator: inverse
+logical_operator: reciprocal
+logical_operator: opposite
+logical_operator: complement
+logical_operator: negation
+logical_operator: conjunction
+logical_operator: disjunction
+logical_operator: conditional
+logical_operator: biconditional
+logical_operator: therefore
+logical_operator: thus
+logical_operator: hence
+logical_operator: consequently
+logical_operator: because
+logical_operator: since
+logical_operator: given that
+logical_operator: provided that
+logical_operator: assuming
+logical_operator: suppose
+logical_operator: suppose that
+logical_operator: if and only if
+logical_operator: necessary
+logical_operator: sufficient
+logical_operator: required
+logical_operator: implies that
+logical_operator: follows that
+logical_operator: entails
+logical_operator: means
+logical_operator: signifies
+logical_operator: indicates
+logical_operator: shows
+logical_operator: demonstrates
+logical_operator: proves
+logical_operator: disproves
+logical_operator: contradicts
+logical_operator: consistent with
+logical_operator: inconsistent with
+logical_operator: compatible with
+logical_operator: incompatible with
+logical_operator: belongs to
+logical_operator: member of
+logical_operator: subset of
+logical_operator: superset of
+logical_operator: element of
+logical_operator: part of
+logical_operator: within
+logical_operator: outside
+logical_operator: inside
+logical_operator: beyond
+logical_operator: above
+logical_operator: below
+logical_operator: before
+logical_operator: after
+logical_operator: during
+logical_operator: until
+logical_operator: since time
+logical_operator: from
+logical_operator: to
+logical_operator: between
+logical_operator: among
+logical_operator: throughout
+logical_operator: across
+logical_operator: along
+logical_operator: around
+logical_operator: through
+logical_operator: over
+logical_operator: under
+logical_operator: against
+logical_operator: toward
+logical_operator: away from
+logical_operator: into
+logical_operator: out of
+logical_operator: onto
+logical_operator: off
+logical_operator: upon
+logical_operator: within range
+logical_operator: outside range
+logical_operator: in domain
+logical_operator: not in domain
+logical_operator: maps to
+logical_operator: corresponds to
+logical_operator: relates to
+logical_operator: proportional to
+logical_operator: inversely proportional to
+logical_operator: varies with
+logical_operator: depends on
+logical_operator: independent of
+logical_operator: function of
+logical_operator: determines
+logical_operator: affects
+logical_operator: influences
+logical_operator: causes
+logical_operator: results in
+logical_operator: produces
+logical_operator: generates
+logical_operator: yields
+logical_operator: gives
+logical_operator: creates
+logical_operator: forms
+logical_operator: makes
+logical_operator: constructs
+logical_operator: builds
+logical_operator: destroys
+logical_operator: breaks
+logical_operator: splits
+logical_operator: combines
+logical_operator: merges
+logical_operator: unites
+logical_operator: separates
+logical_operator: divides into
+logical_operator: composed of parts
+logical_operator: consists of parts
+logical_operator: made up of
+logical_operator: comprises
+logical_operator: constitutes
+logical_operator: represents
+logical_operator: symbolizes
+logical_operator: denotes
+logical_operator: refers to
+logical_operator: stands for
+logical_operator: equal to
+logical_operator: identical to
+logical_operator: same as
+logical_operator: different from
+logical_operator: distinct from
+logical_operator: similar to
+logical_operator: dissimilar to
+logical_operator: analogous to
+logical_operator: comparable to
+logical_operator: contrasts with
+logical_operator: opposed to
+logical_operator: contrary to
+logical_operator: converse of
+logical_operator: reverse of
+logical_operator: dual of
+logical_operator: symmetric to
+logical_operator: asymmetric to
+logical_operator: transitive over
+logical_operator: reflexive on
+logical_operator: commutes with
+logical_operator: associates with
+logical_operator: distributes over
+logical_operator: satisfies
+logical_operator: violates
+logical_operator: obeys
+logical_operator: follows rule
+logical_operator: true for
+logical_operator: false for
+logical_operator: holds when
+logical_operator: fails when
+logical_operator: applies to
+logical_operator: applies when
+logical_operator: valid for
+logical_operator: invalid for
+logical_operator: defined for
+logical_operator: undefined for
+logical_operator: exists when
+logical_operator: does not exist when
+logical_operator: possible when
+logical_operator: impossible when
+logical_operator: allowed when
+logical_operator: forbidden when
+logical_operator: permitted if
+logical_operator: prohibited if
+logical_operator: required when
+logical_operator: optional when
+logical_operator: necessary when
+logical_operator: sufficient when
+logical_operator: completes
+logical_operator: partial
+composition_indicator: mixture of
+composition_indicator: blend of
+composition_indicator: combination of
+composition_indicator: alloy of
+composition_indicator: solution of
+composition_indicator: compound of
+impossible_material: dry water
+impossible_material: hot ice at standard pressure
+impossible_material: cold fire
+impossible_material: liquid metal at absolute zero
+impossible_material: solid gas at high temperature
+impossible_material: elastic glass
+impossible_material: flexible diamond
+impossible_material: compressible solid metal
+physical_impossibility: negative mass
+physical_impossibility: negative energy in vacuum
+physical_impossibility: infinite energy from finite source
+physical_impossibility: time travel to past
+physical_impossibility: closed timelike curve
+physical_impossibility: wormhole without exotic matter
+physical_impossibility: information traveling faster than light
+physical_impossibility: perfect vacuum with particles
+physical_impossibility: zero uncertainty
+physical_impossibility: observing position and momentum exactly
+identity_pair: baking soda | sodium bicarbonate
+identity_pair: limestone | calcium carbonate
+identity_pair: dry ice | solid carbon dioxide
+identity_pair: rubbing alcohol | isopropanol
+identity_pair: acetone | propanone
+identity_pair: vitamin c | ascorbic acid
+identity_pair: aspirin | acetylsalicylic acid
+identity_pair: quartz | silicon dioxide
+identity_pair: iron ore | iron oxide
+identity_pair: galena | lead sulfide

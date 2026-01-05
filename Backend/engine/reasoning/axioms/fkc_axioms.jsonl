@@ -1,0 +1,488 @@
+{"id": "AX_ABS_0001", "text": "A thing cannot both be and not be at the same time in the same respect", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0002", "text": "If A equals B and B equals C then A equals C", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0003", "text": "A whole is equal to the sum of its parts", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0004", "text": "Two plus two equals four", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0005", "text": "A triangle has three sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0006", "text": "A square has four equal sides and four right angles", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0007", "text": "A circle is a set of points equidistant from a center point", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0008", "text": "Zero multiplied by any number equals zero", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0009", "text": "Any number divided by itself equals one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0010", "text": "The square root of four is two", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0011", "text": "Parallel lines never intersect", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0012", "text": "A straight line is the shortest distance between two points", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0013", "text": "The sum of angles in a triangle equals 180 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0014", "text": "A prime number is divisible only by one and itself", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0016", "text": "One plus one equals two", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0017", "text": "Ten minus five equals five", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0018", "text": "Three times three equals nine", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0019", "text": "Eight divided by two equals four", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0020", "text": "The integer following three is four", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0021", "text": "Zero is neither positive nor negative", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0022", "text": "A cube has six faces", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0023", "text": "A sphere has no edges", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0024", "text": "A rectangle has four sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0025", "text": "An even number is divisible by two", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0026", "text": "An odd number is not divisible by two", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0027", "text": "The Pythagorean theorem states that a squared plus b squared equals c squared in a right triangle", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0028", "text": "A right angle measures 90 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0029", "text": "A full circle contains 360 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0030", "text": "The perimeter of a circle is called its circumference", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0031", "text": "The diameter of a circle is twice its radius", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0032", "text": "A pentagon has five sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0033", "text": "A hexagon has six sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0034", "text": "An octagon has eight sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0035", "text": "A cylinder has two circular bases", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0036", "text": "A cone has one circular base and one apex", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0037", "text": "The area of a rectangle equals length times width", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0038", "text": "The volume of a cube equals side length cubed", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0039", "text": "One meter equals 100 centimeters", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0040", "text": "One kilogram equals 1000 grams", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0041", "text": "One liter equals 1000 milliliters", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0042", "text": "One hour contains 60 minutes", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0043", "text": "One minute contains 60 seconds", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0044", "text": "One day contains 24 hours", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0045", "text": "One week contains seven days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0046", "text": "January is the first month of the year", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0047", "text": "December is the twelfth month of the year", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0048", "text": "A leap year occurs every four years with exceptions", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0049", "text": "The alphabet contains 26 letters in English", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0050", "text": "A dozen equals twelve", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0051", "text": "A century equals 100 years", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0052", "text": "A millennium equals 1000 years", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0053", "text": "Multiplication is commutative", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0054", "text": "Addition is associative", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0055", "text": "The identity element for multiplication is one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0056", "text": "The identity element for addition is zero", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0057", "text": "A negative times a negative equals a positive", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0058", "text": "A negative times a positive equals a negative", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0059", "text": "The absolute value of a number is non-negative", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0060", "text": "The square of any real number is non-negative", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0061", "text": "If x equals y then y equals x", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0062", "text": "A set is a collection of distinct objects", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0063", "text": "The empty set contains no elements", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0064", "text": "A subset contains only elements from its parent set", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0065", "text": "The union of two sets contains all elements from both sets", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0066", "text": "The intersection of two sets contains only common elements", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0067", "text": "An equilateral triangle has three equal sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0068", "text": "An isosceles triangle has at least two equal sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0069", "text": "A scalene triangle has no equal sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0070", "text": "An acute angle is less than 90 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0071", "text": "An obtuse angle is greater than 90 degrees and less than 180 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0072", "text": "Vertical angles are equal", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0073", "text": "Complementary angles sum to 90 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0074", "text": "Supplementary angles sum to 180 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0075", "text": "The area of a triangle equals one half base times height", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0076", "text": "A rhombus has four equal sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0077", "text": "A trapezoid has at least one pair of parallel sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0078", "text": "A parallelogram has two pairs of parallel sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0079", "text": "Opposite sides of a parallelogram are equal", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0080", "text": "The diagonals of a rectangle are equal", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0081", "text": "The diagonals of a square are equal and perpendicular", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0082", "text": "A polygon is a closed figure with straight sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0083", "text": "The sum of exterior angles of any polygon equals 360 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0084", "text": "A regular polygon has all sides and angles equal", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0085", "text": "A quadrilateral has four sides", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0086", "text": "The volume of a sphere equals four thirds pi times radius cubed", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0087", "text": "The surface area of a sphere equals four pi times radius squared", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0088", "text": "The circumference of a circle equals two pi times radius", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0089", "text": "The area of a circle equals pi times radius squared", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0090", "text": "One kilometer equals 1000 meters", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0091", "text": "One ton equals 1000 kilograms", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0092", "text": "Water freezes at zero degrees Celsius at standard pressure", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0093", "text": "Water boils at 100 degrees Celsius at standard pressure", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0094", "text": "Absolute zero is minus 273.15 degrees Celsius", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0095", "text": "The speed of light in vacuum is approximately 299792458 meters per second", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0096", "text": "The base of the natural logarithm e is approximately 2.71828", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0097", "text": "The golden ratio phi is approximately 1.618", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0098", "text": "One foot equals twelve inches", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0099", "text": "One yard equals three feet", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0100", "text": "One mile equals 5280 feet", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0101", "text": "One gallon equals four quarts", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0102", "text": "One pound equals sixteen ounces", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0103", "text": "There are twelve months in a year", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0104", "text": "February has 28 days in a common year", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0105", "text": "February has 29 days in a leap year", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0106", "text": "April has 30 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0107", "text": "May has 31 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0108", "text": "June has 30 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0109", "text": "July has 31 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0110", "text": "August has 31 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0111", "text": "September has 30 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0112", "text": "October has 31 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0113", "text": "November has 30 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0114", "text": "March has 31 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0115", "text": "January has 31 days", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0116", "text": "A year contains 365 days in a common year", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0117", "text": "A year contains 366 days in a leap year", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0118", "text": "The sum of two even numbers is even", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0119", "text": "The sum of two odd numbers is even", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0120", "text": "The sum of an even and odd number is odd", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0121", "text": "The product of two even numbers is even", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0122", "text": "The product of two odd numbers is odd", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0123", "text": "Zero is an integer", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0124", "text": "All natural numbers are integers", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0125", "text": "All integers are rational numbers", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0126", "text": "All rational numbers are real numbers", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0127", "text": "The square root of two is irrational", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0128", "text": "Pi is irrational", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0129", "text": "E is irrational", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0130", "text": "A function maps each input to exactly one output", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0131", "text": "The derivative measures rate of change", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0132", "text": "The integral measures accumulated quantity", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0133", "text": "The sine of zero degrees equals zero", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0134", "text": "The cosine of zero degrees equals one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0135", "text": "The tangent of 45 degrees equals one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0136", "text": "Sine squared plus cosine squared equals one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0137", "text": "One radian equals approximately 57.3 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0138", "text": "Two pi radians equal 360 degrees", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0139", "text": "The logarithm of one to any base equals zero", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0140", "text": "The logarithm of a base to itself equals one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0141", "text": "Any number to the power of zero equals one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0142", "text": "Any number to the power of one equals itself", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0143", "text": "The factorial of zero equals one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0144", "text": "The factorial of one equals one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0145", "text": "The factorial of five equals 120", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0146", "text": "A binary number uses only digits zero and one", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0147", "text": "A hexadecimal number uses base sixteen", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0148", "text": "An octal number uses base eight", "severity": "absolute", "domain": "general"}
+{"id": "AX_ABS_0149", "text": "The decimal system uses base ten", "severity": "absolute", "domain": "general"}
+{"id": "AX_PHY_0001", "text": "Mass cannot be created or destroyed in a closed system", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0002", "text": "Energy cannot be created or destroyed in a closed system", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0003", "text": "The speed of light in vacuum is constant", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0004", "text": "Gravity attracts objects with mass toward each other", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0005", "text": "Electric charges of opposite sign attract each other", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0006", "text": "Electric charges of the same sign repel each other", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0007", "text": "Magnetic poles exist in pairs", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0008", "text": "Like magnetic poles repel each other", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0009", "text": "Opposite magnetic poles attract each other", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0010", "text": "Light travels in straight lines in a uniform medium", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0011", "text": "Sound requires a medium to travel", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0012", "text": "Heat flows from hot objects to cold objects", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0013", "text": "The wavelength times frequency of light equals its speed", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0014", "text": "Photons have no mass", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0015", "text": "Electrons have negative charge", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0016", "text": "Protons have positive charge", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0017", "text": "Neutrons have no charge", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0018", "text": "Atoms contain protons neutrons and electrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0019", "text": "The atomic number equals the number of protons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0020", "text": "Hydrogen has atomic number one", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0021", "text": "Helium has atomic number two", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0022", "text": "Carbon has atomic number six", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0023", "text": "Nitrogen has atomic number seven", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0024", "text": "Oxygen has atomic number eight", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0025", "text": "Gold has atomic number 79", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0026", "text": "Iron has atomic number 26", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0027", "text": "Sodium has atomic number 11", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0028", "text": "Chlorine has atomic number 17", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0029", "text": "Uranium has atomic number 92", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0030", "text": "Water consists of two hydrogen atoms and one oxygen atom", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0031", "text": "Carbon dioxide consists of one carbon atom and two oxygen atoms", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0032", "text": "Salt consists of sodium and chlorine", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0033", "text": "Momentum equals mass times velocity", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0034", "text": "Force equals mass times acceleration", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0035", "text": "Work equals force times distance", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0036", "text": "Power equals work divided by time", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0037", "text": "Kinetic energy equals one half mass times velocity squared", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0038", "text": "Potential energy in a gravitational field equals mass times gravitational acceleration times height", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0039", "text": "Pressure equals force divided by area", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0040", "text": "Density equals mass divided by volume", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0041", "text": "Velocity equals distance divided by time", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0042", "text": "Acceleration equals change in velocity divided by time", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0043", "text": "Electric current equals charge divided by time", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0044", "text": "Voltage equals current times resistance", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0045", "text": "Electric power equals voltage times current", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0046", "text": "The period of a wave is the inverse of its frequency", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0047", "text": "Wavelength equals speed divided by frequency", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0048", "text": "Objects in motion remain in motion unless acted upon by force", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0049", "text": "Objects at rest remain at rest unless acted upon by force", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0050", "text": "For every action there is an equal and opposite reaction", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0051", "text": "The gravitational force between two objects is proportional to their masses", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0052", "text": "The gravitational force between two objects is inversely proportional to the square of their distance", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0053", "text": "Light exhibits wave properties", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0054", "text": "Light exhibits particle properties", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0055", "text": "The electromagnetic spectrum includes radio waves", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0056", "text": "The electromagnetic spectrum includes microwaves", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0057", "text": "The electromagnetic spectrum includes infrared radiation", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0058", "text": "The electromagnetic spectrum includes visible light", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0059", "text": "The electromagnetic spectrum includes ultraviolet radiation", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0060", "text": "The electromagnetic spectrum includes X-rays", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0061", "text": "The electromagnetic spectrum includes gamma rays", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0062", "text": "Red light has longer wavelength than blue light", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0063", "text": "Ultraviolet light has shorter wavelength than visible light", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0064", "text": "Infrared light has longer wavelength than visible light", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0065", "text": "The Sun emits electromagnetic radiation", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0066", "text": "Radioactive decay releases particles or energy", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0067", "text": "Alpha particles consist of two protons and two neutrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0068", "text": "Beta particles are electrons or positrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0069", "text": "Gamma rays are high energy photons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0070", "text": "Half life is the time for half of a radioactive sample to decay", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0071", "text": "Temperature measures average kinetic energy of particles", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0072", "text": "Absolute zero is the lowest possible temperature", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0073", "text": "Gases expand when heated at constant pressure", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0074", "text": "Liquids expand when heated", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0075", "text": "Most solids expand when heated", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0076", "text": "Ice is less dense than liquid water", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0077", "text": "Pressure increases with depth in a fluid", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0078", "text": "Buoyant force equals the weight of displaced fluid", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0079", "text": "The speed of sound in air is approximately 343 meters per second at room temperature", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0080", "text": "The speed of sound increases with temperature", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0081", "text": "Doppler effect changes observed frequency with relative motion", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0082", "text": "Refraction bends light passing between different media", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0083", "text": "Reflection bounces light off surfaces", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0084", "text": "The angle of incidence equals the angle of reflection", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0085", "text": "Total internal reflection occurs at angles beyond the critical angle", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0086", "text": "A convex lens converges light rays", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0087", "text": "A concave lens diverges light rays", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0088", "text": "A convex mirror produces virtual images", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0089", "text": "A concave mirror can produce real or virtual images", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0090", "text": "White light separates into colors through a prism", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0091", "text": "The visible spectrum ranges from red to violet", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0092", "text": "Chlorophyll absorbs red and blue light", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0093", "text": "Friction opposes motion between surfaces", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0094", "text": "Air resistance opposes motion through air", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0095", "text": "Terminal velocity occurs when forces balance", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0096", "text": "Centripetal force is required for circular motion", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0097", "text": "Angular momentum is conserved in isolated systems", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0098", "text": "Torque equals force times lever arm distance", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0099", "text": "The moment of inertia depends on mass distribution", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0100", "text": "Resonance occurs when driving frequency matches natural frequency", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0101", "text": "Standing waves have nodes and antinodes", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0102", "text": "Interference can be constructive or destructive", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0103", "text": "Diffraction spreads waves passing through openings", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0104", "text": "Polarization restricts wave oscillation to specific directions", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0105", "text": "Photoelectric effect releases electrons when light hits metal", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0106", "text": "Blackbody radiation spectrum depends on temperature", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0107", "text": "Wien displacement law relates peak wavelength to temperature", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0108", "text": "Stefan Boltzmann law relates radiated power to temperature", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0109", "text": "Entropy increases in isolated systems", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0110", "text": "Heat engines cannot be 100 percent efficient", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0111", "text": "Carnot efficiency depends on temperature difference", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0112", "text": "PV equals nRT for ideal gases", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0113", "text": "Boyle law states pressure times volume is constant at constant temperature", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0114", "text": "Charles law states volume divided by temperature is constant at constant pressure", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0115", "text": "Avogadro number is approximately 6.022 times ten to the 23rd power", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0116", "text": "One mole contains Avogadro number of particles", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0117", "text": "Molecular mass is measured in atomic mass units", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0118", "text": "pH measures hydrogen ion concentration", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0119", "text": "pH seven is neutral", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0120", "text": "pH below seven is acidic", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0121", "text": "pH above seven is basic", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0122", "text": "Strong acids completely dissociate in water", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0123", "text": "Oxidation is loss of electrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0124", "text": "Reduction is gain of electrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0125", "text": "Catalysts speed reactions without being consumed", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0126", "text": "Activation energy is required to start reactions", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0127", "text": "Exothermic reactions release energy", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0128", "text": "Endothermic reactions absorb energy", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0129", "text": "Chemical equilibrium occurs when forward and reverse rates equal", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0130", "text": "Le Chatelier principle describes equilibrium shifts", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0131", "text": "Ionic bonds involve electron transfer", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0132", "text": "Covalent bonds involve electron sharing", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0133", "text": "Metallic bonds involve delocalized electrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0134", "text": "Hydrogen bonds are weak electrostatic interactions", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0135", "text": "Van der Waals forces are weak intermolecular forces", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0136", "text": "Noble gases have complete outer electron shells", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0137", "text": "Halogens have seven valence electrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0138", "text": "Alkali metals have one valence electron", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0139", "text": "Alkaline earth metals have two valence electrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0140", "text": "Carbon can form four covalent bonds", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0141", "text": "Diamond is a form of carbon", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0142", "text": "Graphite is a form of carbon", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0143", "text": "Metals conduct electricity", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0144", "text": "Metals conduct heat", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0145", "text": "Insulators do not conduct electricity well", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0146", "text": "Semiconductors have intermediate conductivity", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0147", "text": "Superconductors have zero electrical resistance below critical temperature", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0148", "text": "Plasma is ionized gas", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0149", "text": "Sublimation converts solid directly to gas", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0150", "text": "Deposition converts gas directly to solid", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0151", "text": "Evaporation converts liquid to gas", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0152", "text": "Condensation converts gas to liquid", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0153", "text": "Melting converts solid to liquid", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0154", "text": "Freezing converts liquid to solid", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0155", "text": "Triple point is where all three phases coexist", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0156", "text": "Critical point is where liquid and gas phases become indistinguishable", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0157", "text": "Isotopes have same number of protons but different numbers of neutrons", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0158", "text": "Nuclear fission splits heavy nuclei", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0159", "text": "Nuclear fusion combines light nuclei", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0160", "text": "Antimatter has opposite charge to matter", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0161", "text": "Electron mass is approximately 9.109 times ten to the minus 31st kilograms", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0162", "text": "Proton mass is approximately 1.673 times ten to the minus 27th kilograms", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0163", "text": "Planck constant is approximately 6.626 times ten to the minus 34th joule seconds", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0164", "text": "Gravitational constant is approximately 6.674 times ten to the minus 11th newton meters squared per kilogram squared", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0165", "text": "Elementary charge is approximately 1.602 times ten to the minus 19th coulombs", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0166", "text": "The Earth orbits the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0167", "text": "The Moon orbits the Earth", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0168", "text": "Planets orbit in elliptical paths", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0169", "text": "Tides result from gravitational forces of the Moon and Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0170", "text": "Day and night result from Earth rotation", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0171", "text": "Seasons result from Earth axial tilt", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0172", "text": "The Sun is a star", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0173", "text": "Stars produce energy through nuclear fusion", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0174", "text": "Red giant stars have expanded outer layers", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0175", "text": "White dwarf stars are dense stellar remnants", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0176", "text": "Neutron stars are extremely dense", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0177", "text": "Black holes have escape velocities exceeding light speed", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0178", "text": "Galaxies contain billions of stars", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0179", "text": "The Milky Way is a spiral galaxy", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0180", "text": "The universe is expanding", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0181", "text": "Cosmic microwave background radiation pervades space", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0182", "text": "Mars is the fourth planet from the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0183", "text": "Jupiter is the largest planet in the solar system", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0184", "text": "Saturn has prominent rings", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0185", "text": "Mercury is the closest planet to the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0186", "text": "Venus is the second planet from the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0187", "text": "Earth is the third planet from the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0188", "text": "Uranus is the seventh planet from the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0189", "text": "Neptune is the eighth planet from the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0190", "text": "Comets have tails pointing away from the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0191", "text": "Asteroids are rocky bodies orbiting the Sun", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0192", "text": "Meteoroids are small rocky or metallic bodies in space", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0193", "text": "Meteors are meteoroids burning in atmosphere", "severity": "physical", "domain": "general"}
+{"id": "AX_PHY_0194", "text": "Meteorites are meteors that reach the ground", "severity": "physical", "domain": "general"}
+{"id": "AX_SOF_0001", "text": "Living organisms require energy to maintain themselves", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0002", "text": "Cells are the basic units of life", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0003", "text": "DNA carries genetic information", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0004", "text": "Proteins are built from amino acids", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0005", "text": "Enzymes are biological catalysts", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0006", "text": "Photosynthesis converts light energy into chemical energy", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0007", "text": "Cellular respiration releases energy from glucose", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0008", "text": "Mitochondria are organelles involved in energy production", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0009", "text": "Chloroplasts are organelles where photosynthesis occurs", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0010", "text": "The nucleus contains genetic material", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0011", "text": "Cell membranes control passage of substances", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0012", "text": "Diffusion moves substances from high to low concentration", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0013", "text": "Osmosis is diffusion of water across membranes", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0014", "text": "Active transport requires energy", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0015", "text": "DNA consists of nucleotides", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0016", "text": "The four DNA bases are adenine thymine guanine and cytosine", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0017", "text": "RNA contains uracil instead of thymine", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0018", "text": "DNA forms a double helix structure", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0019", "text": "Genes are segments of DNA", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0020", "text": "Chromosomes contain DNA", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0021", "text": "Humans have 46 chromosomes", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0022", "text": "Meiosis produces gametes", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0023", "text": "Mitosis produces identical daughter cells", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0024", "text": "Genetic mutations are changes in DNA sequence", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0025", "text": "Natural selection acts on heritable variation", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0026", "text": "Organisms reproduce to create offspring", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0027", "text": "Species share common ancestors", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0028", "text": "Fossils are preserved remains of ancient organisms", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0029", "text": "The tree of life shows evolutionary relationships", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0030", "text": "Bacteria are prokaryotic organisms", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0031", "text": "Eukaryotic cells have nuclei", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0032", "text": "Viruses require host cells to replicate", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0033", "text": "Fungi include yeasts and molds", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0034", "text": "Plants produce oxygen through photosynthesis", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0035", "text": "Animals consume organic matter for energy", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0036", "text": "Vertebrates have backbones", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0037", "text": "Invertebrates lack backbones", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0038", "text": "Mammals produce milk", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0039", "text": "Birds have feathers", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0040", "text": "Reptiles have scales", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0041", "text": "Amphibians undergo metamorphosis", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0042", "text": "Fish have gills", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0043", "text": "Arthropods have exoskeletons", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0044", "text": "Insects have six legs", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0045", "text": "Spiders have eight legs", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0046", "text": "Mollusks include snails and octopuses", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0047", "text": "Ecosystems contain biotic and abiotic components", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0048", "text": "Producers convert sunlight into chemical energy", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0049", "text": "Consumers obtain energy by eating other organisms", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0050", "text": "Decomposers break down dead organic matter", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0051", "text": "Food chains show energy flow", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0052", "text": "Food webs show interconnected feeding relationships", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0053", "text": "Predators hunt prey", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0054", "text": "Herbivores eat plants", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0055", "text": "Carnivores eat meat", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0056", "text": "Omnivores eat both plants and animals", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0057", "text": "Populations consist of individuals of the same species", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0058", "text": "Communities contain multiple species", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0059", "text": "Biomes are large ecological regions", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0060", "text": "Deserts receive low precipitation", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0061", "text": "Rainforests have high biodiversity", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0062", "text": "Tundra exists in cold climates", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0063", "text": "Grasslands support grazing animals", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0064", "text": "Oceans cover most of Earth surface", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0065", "text": "Coral reefs support diverse marine life", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0066", "text": "Wetlands filter water", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0067", "text": "Rivers flow toward oceans or lakes", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0068", "text": "Lakes are inland bodies of water", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0069", "text": "Groundwater exists beneath the surface", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0070", "text": "The water cycle involves evaporation and precipitation", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0071", "text": "Carbon cycles through atmosphere oceans and organisms", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0072", "text": "Nitrogen is essential for proteins", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0073", "text": "Phosphorus is essential for DNA and ATP", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0074", "text": "The atmosphere contains nitrogen and oxygen", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0075", "text": "Carbon dioxide is a greenhouse gas", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0076", "text": "Methane is a greenhouse gas", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0077", "text": "Water vapor is a greenhouse gas", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0078", "text": "Ozone absorbs ultraviolet radiation", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0079", "text": "The ozone layer exists in the stratosphere", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0080", "text": "Weather describes short term atmospheric conditions", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0081", "text": "Climate describes long term atmospheric patterns", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0082", "text": "Temperature varies with altitude", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0083", "text": "Humidity measures water vapor in air", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0084", "text": "Wind results from pressure differences", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0085", "text": "Clouds form from condensed water vapor", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0086", "text": "Rain falls from clouds", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0087", "text": "Snow forms when water vapor freezes", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0088", "text": "Hurricanes are large rotating storms", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0089", "text": "Tornadoes are rotating columns of air", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0090", "text": "Lightning is electrical discharge", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0091", "text": "Thunder results from lightning heating air", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0092", "text": "Earthquakes result from tectonic movement", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0093", "text": "Volcanoes erupt molten rock", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0094", "text": "Plate tectonics describes movement of Earth crust", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0095", "text": "Continental drift separates landmasses", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0096", "text": "Mountains form from tectonic uplift", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0097", "text": "Erosion wears down rock", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0098", "text": "Sediment accumulates in layers", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0099", "text": "Rock cycle transforms rock types", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0100", "text": "Igneous rocks form from cooling magma", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0101", "text": "Sedimentary rocks form from compressed sediment", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0102", "text": "Metamorphic rocks form from heat and pressure", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0103", "text": "Minerals have crystalline structure", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0104", "text": "Quartz is silicon dioxide", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0105", "text": "Calcite contains calcium carbonate", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0106", "text": "Diamonds are extremely hard", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0107", "text": "The Earth has layers", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0108", "text": "The crust is the outermost layer", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0109", "text": "The mantle lies beneath the crust", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0110", "text": "The core is at Earth center", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0111", "text": "The inner core is solid", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0112", "text": "The outer core is liquid", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0113", "text": "Earth magnetic field extends into space", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0114", "text": "The magnetosphere protects from solar wind", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0115", "text": "Solar flares emit radiation", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0116", "text": "Sunspots are dark regions on the Sun", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0117", "text": "The Sun rotates", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0118", "text": "Solar eclipses occur when the Moon blocks the Sun", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0119", "text": "Lunar eclipses occur when Earth blocks sunlight to the Moon", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0120", "text": "The Moon has phases", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0121", "text": "Full moon occurs when the Moon is opposite the Sun", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0122", "text": "New moon occurs when the Moon is between Earth and Sun", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0123", "text": "The Moon has no atmosphere", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0124", "text": "Mercury has no atmosphere", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0125", "text": "Venus has a thick atmosphere", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0126", "text": "Mars has a thin atmosphere", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0127", "text": "Jupiter has a strong magnetic field", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0128", "text": "Jupiter has a Great Red Spot", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0129", "text": "Saturn rings consist of ice and rock particles", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0130", "text": "Titan is Saturn largest moon", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0131", "text": "Europa is a moon of Jupiter", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0132", "text": "Pluto is a dwarf planet", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0133", "text": "Asteroids orbit mainly between Mars and Jupiter", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0134", "text": "The Kuiper Belt contains icy bodies beyond Neptune", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0135", "text": "The Oort Cloud is a distant region of comets", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0136", "text": "Light years measure astronomical distances", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0137", "text": "Parsecs measure astronomical distances", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0138", "text": "Stars vary in size and temperature", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0139", "text": "Blue stars are hotter than red stars", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0140", "text": "Constellations are patterns of stars", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0141", "text": "Nebulae are clouds of gas and dust", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0142", "text": "Star clusters contain many stars", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0143", "text": "Binary stars orbit each other", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0144", "text": "Supernovae are stellar explosions", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0145", "text": "Pulsars are rotating neutron stars", "severity": "soft", "domain": "general"}
+{"id": "AX_SOF_0146", "text": "Quasars are extremely luminous objects", "severity": "soft", "domain": "general"}
